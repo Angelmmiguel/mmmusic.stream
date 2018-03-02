@@ -12,8 +12,8 @@ const channels = require('../channels.json').channels;
 const API_TOKEN = process.env.API_TOKEN;
 
 if (API_TOKEN == null) {
-  console.error(chalk.red.bold('The API_TOKEN env var is required'));
-  process.exit(1);
+  console.error(chalk.bold('The API_TOKEN env var is required. Skipping the test'));
+  process.exit();
 }
 
 // Action
