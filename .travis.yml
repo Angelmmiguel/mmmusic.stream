@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "8"
+cache: yarn
+install:
+  - yarn install
+
+jobs:
+  include:
+    - stage: build
+      script:
+        - yarn build
+    - stage: test
+      script:
+        - yarn channels:test
