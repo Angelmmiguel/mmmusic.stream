@@ -59,6 +59,7 @@ typings/
 
 # next.js build output
 .next
+out
 
 # Mac shit
 .DS_Store

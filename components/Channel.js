@@ -124,6 +124,7 @@ class Channel extends React.Component {
       return <Player
         url={ `https://youtube.com/watch?v=${this.props.channel.videoId}` }
         volume={ this.props.volume / 100 }
+        loop={ true }
         muted={ this.props.muted }
         playing={ this.isPlaying }
         controls={ false }

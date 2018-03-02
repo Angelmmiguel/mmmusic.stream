@@ -1,5 +1,4 @@
 import React from 'react';
-import 'isomorphic-unfetch';
 
 // Lib
 import Mousetrap from 'mousetrap';
@@ -13,9 +12,8 @@ import Footer from '../components/Footer';
 
 class Index extends React.Component {
   static async getInitialProps() {
-    const res = await fetch(`http://localhost:3000/api/channels`);
-    const json = await res.json();
-    return { channels: json.channels };
+    const channels = require('../channels.json').channels;
+    return { channels };
   }
 
   constructor(props) {
