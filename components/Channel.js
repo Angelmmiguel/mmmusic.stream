@@ -202,6 +202,7 @@ class Channel extends React.Component {
           background: transparent;
           top: 0;
           left: 0;
+          cursor: pointer;
         }
         .Channel__Player__Button:focus, .Channel__Player__Button:active {
           outline: 0;
