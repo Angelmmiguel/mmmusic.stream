@@ -18,8 +18,7 @@ class Genres extends React.PureComponent {
       </section>
       <section className="Genres__Options">
         { sorted.map((g, i) => {
-          return <Genre genre={ g } key={ i } currentFilter={ this.props.filter }
-            onChangeFilter={ this.props.onChangeFilter } />;
+          return <Genre genre={ g } key={ i } currentFilter={ this.props.filter } />;
         })}
       </section>
       <style jsx>{`
@@ -41,6 +40,7 @@ class Genres extends React.PureComponent {
           }
           .Genres__Options {
             display: block;
+            margin-top: 1em;
           }
         }
       `}</style>

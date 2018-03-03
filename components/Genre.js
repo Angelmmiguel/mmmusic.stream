@@ -1,40 +1,52 @@
 import React from 'react';
+import Link from 'next/link';
 
 class Genre extends React.PureComponent {
   render() {
-    let cssClass = 'Genre';
+    let cssClass;
+    let asUrl = '/';
+    const encodeGenre = this.props.genre.replace(' ', '-');
 
     if (this.props.currentFilter === this.props.genre) {
-      cssClass += ' Genre--active';
+      cssClass = 'active';
     }
 
-    return <button className={ cssClass }
-      onClick={ () => this.props.onChangeFilter(this.props.genre) }>
-      { this.props.genre }
-      <style jsx>{`
-        .Genre {
-          padding: .5em 1em;
-          margin: 0 .5em .5em 0;
-          border-radius: 25px;
-          font-size: 1em;
-          cursor: pointer;
-          border: none;
-          background: transparent;
-        }
-        .Genre.Genre--active, .Genre.Genre--active:hover {
-          background: var(--c-red);
-        }
-        .Genre:focus {
-          outline: 0;
-        }
-        .Genre:hover {
-          background: var(--c-red-hover);
-        }
-        .Genre--active, .Genre:hover {
-          color: var(--c-white);
-        }
-      `}</style>
-    </button>;
+    if (this.props.genre !== 'All') {
+      asUrl = `/genre/${encodeGenre}`;
+    }
+
+    return <Link href={ `/?genre=${this.props.genre}` } as={ asUrl }>
+      <a className={ cssClass }>
+        { this.props.genre }
+        <style jsx>{`
+          a {
+            border: none;
+            border-radius: 25px;
+            background: transparent;
+            color: var(--c-text);
+            cursor: pointer;
+            font-size: 1em;
+            margin: 0 .5em .5em 0;
+            padding: .5em 1em;
+            text-decoration: none;
+          }
+          a.active,
+          a.active:hover {
+            background: var(--c-red);
+          }
+          a:focus {
+            outline: 0;
+          }
+          a:hover {
+            background: var(--c-red-hover);
+          }
+          a.active,
+          a:hover {
+            color: var(--c-white);
+          }
+        `}</style>
+      </a>
+    </Link>;
   }
 }
 

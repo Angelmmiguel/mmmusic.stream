@@ -1,4 +1,9 @@
 import React from 'react';
+import Router from 'next/router'
+
+// Redux
+import withRedux from 'next-redux-wrapper';
+import initStore, { stopPlay, toogleMute, tooglePlay, updateChannel, updateVolume } from '../store';
 
 // Lib
 import Mousetrap from 'mousetrap';
@@ -11,9 +16,10 @@ import Layout from '../components/Layout';
 import Footer from '../components/Footer';
 
 class Index extends React.Component {
-  static async getInitialProps() {
+  static async getInitialProps({ query }) {
     const channels = require('../channels.json').channels;
-    return { channels };
+    const filter = query && query.genre ? query.genre : 'All';
+    return { channels, filter };
   }
 
   constructor(props) {
@@ -37,15 +43,6 @@ class Index extends React.Component {
 
     // Store as a property. It won't change
     this.genres = genres;
-
-    // Init the state of the app
-    this.state = {
-      channel: '',
-      filter: genres[0],
-      muted: false,
-      playing: false,
-      volume: 75,
-    }
   }
 
   componentDidMount() {
@@ -53,61 +50,62 @@ class Index extends React.Component {
     Mousetrap.bind('space', (e) => {
       e.preventDefault();
       e.stopPropagation();
-      if (this.state.channel !== '') {
-        this.setState({ playing: !this.state.playing });
+      if (this.props.channel !== '') {
+        this.props.dispatch(tooglePlay());
       } else {
-        this.setState({ channel: this.currentChannels[0].videoId, playing: true });
+        this.props.dispatch(updateChannel(this.currentChannels[0].videoId));
       }
     });
     // Next
     Mousetrap.bind('n', () => {
       let localChannels = this.currentChannels;
-      if (this.state.channel !== '') {
-        let i = localChannels.findIndex((el) => el.videoId === this.state.channel);
+      if (this.props.channel !== '') {
+        let i = localChannels.findIndex((el) => el.videoId === this.props.channel);
         // If the list is filtered, we're going to consider that i is 0;
         i = i == undefined ? 0 : i;
         // Jump
         if (i === localChannels.length - 1) {
-          this.setState({ channel: localChannels[0].videoId, playing: true });
+          this.props.dispatch(updateChannel(localChannels[0].videoId));
         } else {
-          this.setState({ channel: localChannels[i + 1].videoId, playing: true });
+          this.props.dispatch(updateChannel(localChannels[i + 1].videoId));
         }
       }
     });
     // Previous
     Mousetrap.bind('p', () => {
       let localChannels = this.currentChannels;
-      if (this.state.channel !== '') {
-        let i = localChannels.findIndex((el) => el.videoId === this.state.channel);
+      if (this.props.channel !== '') {
+        let i = localChannels.findIndex((el) => el.videoId === this.props.channel);
         // If the list is filtered, we're going to consider that i is 0;
         i = i == undefined ? 0 : i;
         // Jump
         if (i === 0) {
-          this.setState({ channel: localChannels[localChannels.length - 1].videoId, playing: true });
+          this.props.dispatch(updateChannel(localChannels[localChannels.length - 1].videoId));
         } else {
-          this.setState({ channel: localChannels[i - 1].videoId, playing: true });
+          this.props.dispatch(updateChannel(localChannels[i - 1].videoId));
         }
       }
     });
     // Mute / Unmmute
     Mousetrap.bind('m', () => {
-      this.setState({ muted: !this.state.muted });
+      this.props.dispatch(toogleMute());
     });
     // Random
     Mousetrap.bind('r', () => {
-      let arr = this.currentChannels.filter((c) => c.videoId !== this.state.channel);
+      const arr = this.currentChannels.filter((c) => c.videoId !== this.props.channel);
       if (arr.length === 0) return;
-      this.setState({ channel: arr[Math.floor(Math.random() * arr.length)].videoId, playing: true });
+      const randomId = arr[Math.floor(Math.random() * arr.length)].videoId;
+      this.props.dispatch(updateChannel(randomId));
     });
     // Volume up
     Mousetrap.bind('u', () => {
       let volume = this.state.volume + 10;
-      this.setState({ volume: volume > 100 ? 100 : volume });
+      this.props.dispatch(updateVolume(volume > 100 ? 100 : volume));
     });
 
     Mousetrap.bind('j', () => {
       let volume = this.state.volume - 10;
-      this.setState({ volume: volume < 0 ? 0 : volume });
+      this.props.dispatch(updateVolume(volume < 0 ? 0 : volume));
     });
   }
 
@@ -116,39 +114,39 @@ class Index extends React.Component {
   }
 
   get currentChannel() {
-    return this.props.channels.filter((c) => c.videoId === this.state.channel)[0] || {};
+    return this.props.channels.filter((c) => c.videoId === this.props.channel)[0] || {};
   }
 
   get currentChannels() {
-    if (this.state.filter === 'All') {
+    if (this.props.filter === 'All') {
       return this.props.channels;
     } else {
-      return this.props.channels.filter((c) => c.genres.indexOf(this.state.filter) > -1);
+      return this.props.channels.filter((c) => c.genres.indexOf(this.props.filter) > -1);
     }
   }
 
   setPlaying(channel) {
-    this.setState({ channel, playing: true });
+    this.props.dispatch(updateChannel(channel));
   }
 
   stopPlaying() {
-    this.setState({ playing: false });
-  }
-
-  onChangeFilter(filter) {
-    this.setState({ filter });
+    this.props.dispatch(stopPlay(channel));
   }
 
   onChangeVolume(volume) {
-    this.setState({ volume });
+    this.props.dispatch(updateVolume(volume));
+  }
+
+  onChangeFilter(filter) {
+    Router.push(`/?genre=${filter}`, `/genre/${filter}`);
   }
 
   get channelsProps() {
-    const { volume, filter, playing, muted } = this.state;
+    const { volume, playing, muted, filter } = this.props;
     return {
       playing,
       volume,
-      filter,
+      filter, // TODO: Don't hardcode this
       muted,
       channels: this.props.channels,
       currentChannels: this.currentChannels,
@@ -158,14 +156,19 @@ class Index extends React.Component {
     }
   }
 
+  get pageTitle() {
+    return this.props.filter === 'All' ?
+      null :
+      `${this.props.filter.replace(/\b\w/g, l => l.toUpperCase())} | mmmusic. 24/7 music to focus, work and relax`;
+  }
+
   render() {
-    return <Layout>
-      <Header volume={ this.state.volume } onChangeVolume={ this.onChangeVolume }
-        currentChannel={ this.currentChannel } playing={ this.state.playing }
-        muted={ this.state.muted } />
+    return <Layout title={ this.pageTitle }>
+      <Header volume={ this.props.volume } onChangeVolume={ this.onChangeVolume }
+        currentChannel={ this.currentChannel } playing={ this.props.playing }
+        muted={ this.props.muted } />
       <main>
-        <Genres genres={ this.genres } filter={ this.state.filter }
-          onChangeFilter={ this.onChangeFilter }/>
+        <Genres genres={ this.genres } filter={ this.props.filter } onChangeFilter={ this.onChangeFilter} />
         <Channels { ...this.channelsProps }/>
       </main>
       <Footer />
@@ -173,4 +176,8 @@ class Index extends React.Component {
   }
 }
 
-export default Index;
+const mapStateToProps = (state, props) => ({
+  ...state
+});
+
+export default withRedux(initStore, mapStateToProps)(Index);
