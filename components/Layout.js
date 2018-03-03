@@ -9,6 +9,7 @@ const Layout = ({ children, title }) => (
       <meta name="description" content="mmmusic handpicks and groups 24/7 streaming music channels for focusing, working, playing, meditating and relaxing. You will find the right music channel for every moment." />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" />
+      <link href="/static/styles/grid.css" rel="stylesheet" />
       <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/apple-touch-icon-57x57.png" />
       <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/apple-touch-icon-114x114.png" />
       <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/apple-touch-icon-72x72.png" />
@@ -95,89 +96,6 @@ const Layout = ({ children, title }) => (
       // Helpers
       .tr {
         text-align: right;
-      }
-
-      // Grids
-      .grid {
-        display: flex;
-        margin: 0 -1em;
-        max-width: var(--max-width);
-      }
-
-      .space-between {
-        justify-content: space-between;
-      }
-
-      .align-center {
-        align-items: center;
-      }
-
-      .wrap {
-        flex-wrap: wrap;
-      }
-
-      .grid .cell {
-        flex: 1;
-        padding: 0 1em;
-      }
-
-      // Responsive
-      .grid--fit > .cell {
-        flex: 1;
-      }
-      .grid--full > .cell {
-        flex: 0 0 100%;
-      }
-      .grid--1of2 > .cell {
-        flex: 0 0 50%;
-      }
-      .grid--1of3 > .cell {
-        flex: 0 0 33.3333%;
-      }
-      .grid--1of4 > .cell {
-        flex: 0 0 25%;
-      }
-
-      /* Small to medium screens */
-      @media screen and (min-width: 24em) {
-        .small-grid--fit > .cell {
-          flex: 1;
-        }
-        .small-grid--full > .cell {
-          flex: 0 0 100%;
-        }
-        .small-grid--1of2 > .cell {
-          flex: 0 0 50%;
-        }
-        .small-grid--1of3 > .cell {
-          flex: 0 0 33.3333%;
-        }
-        .small-grid--1of4 > .cell {
-          flex: 0 0 25%;
-        }
-      }
-
-      .large-grid--1of4 > .cell {
-        flex: 0 0 25%;
-      }
-
-      /* Large screens */
-      @media screen and (min-width: 48em) {
-        .large-grid--fit > .cell {
-          flex: 1;
-        }
-        .large-grid--full > .cell {
-          flex: 0 0 100%;
-        }
-        .large-grid--1of2 > .cell {
-          flex: 0 0 50%;
-        }
-        .large-grid--1of3 > .cell {
-          flex: 0 0 33.3333%;
-        }
-        .large-grid--1of4 > .cell {
-          flex: 0 0 25%;
-        }
       }
 
       // React input range

@@ -138,7 +138,7 @@ class Index extends React.Component {
   }
 
   onChangeFilter(filter) {
-    Router.push(`/?genre=${filter}`, `/genre/${filter}`);
+    Router.push(`/?genre=${filter}`, `/genre/${filter.replace(' ', '-')}`);
   }
 
   get channelsProps() {
