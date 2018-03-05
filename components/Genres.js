@@ -10,9 +10,10 @@ class Genres extends React.PureComponent {
     return <section className="Genres">
       <h1 className="title">Genres</h1>
       <section className="Genres__Selector">
-        <select onChange={ (e) => this.props.onChangeFilter(e.target.value) }>
+        <select onChange={ (e) => this.props.onChangeFilter(e.target.value) }
+          defaultValue={ this.props.filter } >
           { sorted.map((g, i) => {
-            return <option value={ g } key={ g } selected={ this.props.filter === g }>
+            return <option value={ g } key={ g }>
               { g }
             </option>;
           })}
