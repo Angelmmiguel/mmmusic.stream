@@ -188,15 +188,6 @@
       ]
     },
     {
-      "title": "24/7 lofi hip hop radio - relaxing beats to study/chill/sleep to ☕️",
-      "videoId": "9QLH08n11Tg",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop"
-      ]
-    },
-    {
       "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
       "videoId": "RBM8Dp0Zhog",
       "broadcast": true,
@@ -224,16 +215,6 @@
         "lofi",
         "anime",
         "chill out"
-      ]
-    },
-    {
-      "title": "Best of Chillout Music | NEW TRACKS | ♫ 24/7 Music Livestream ♫ | Lofi, Chillhop, Jazzhop",
-      "videoId": "2oUAeDcFGQo",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "chill out",
-        "hip hop"
       ]
     },
     {
@@ -274,6 +255,15 @@
       ]
     },
     {
+      "title": "Electro Swing Radio 2018 |  24/7 Music Live Stream | Gaming Music",
+      "videoId": "nO1F7a_qkSg",
+      "broadcast": true,
+      "genres": [
+        "dubstep",
+        "electro"
+      ]
+    },
+    {
       "title": "ＣＡＬＭ　ＲＡＤＩＯ　－　ＬＯＦＩ　ＨＩＰＨＯＰ　２４／７　平和",
       "videoId": "fxn8p26WTR4",
       "broadcast": true,
@@ -283,15 +273,6 @@
         "ambient",
         "jazz",
         "chill out"
-      ]
-    },
-    {
-      "title": "Electro Swing Radio 2018 |  24/7 Music Live Stream | Gaming Music",
-      "videoId": "nO1F7a_qkSg",
-      "broadcast": true,
-      "genres": [
-        "dubstep",
-        "electro"
       ]
     },
     {
@@ -356,6 +337,45 @@
         "chill out",
         "electro",
         "dubstep"
+      ]
+    },
+    {
+      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
+      "videoId": "TWv3DfoiigM",
+      "broadcast": false,
+      "genres": [
+        "soundtrack",
+        "videogames"
+      ]
+    },
+    {
+      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
+      "videoId": "XwLILvgX-7A",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "hip hop",
+        "lofi"
+      ]
+    },
+    {
+      "title": "Retro Jungle 24/7 radio Lofi hip hop & chill music",
+      "videoId": "mW_5sn0bu2k",
+      "broadcast": true,
+      "genres": [
+        "hip hop",
+        "relax",
+        "lofi"
+      ]
+    },
+    {
+      "title": "Blossom 24/7 Radio - (Jazz/Chill/Lofi HipHop)",
+      "videoId": "gg-xCZa115M",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "jazz",
+        "hip hop"
       ]
     }
   ]
