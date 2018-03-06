@@ -99,12 +99,12 @@ class Index extends React.Component {
     });
     // Volume up
     Mousetrap.bind('u', () => {
-      let volume = this.state.volume + 10;
+      let volume = this.props.volume + 10;
       this.props.dispatch(updateVolume(volume > 100 ? 100 : volume));
     });
 
     Mousetrap.bind('j', () => {
-      let volume = this.state.volume - 10;
+      let volume = this.props.volume - 10;
       this.props.dispatch(updateVolume(volume < 0 ? 0 : volume));
     });
   }
