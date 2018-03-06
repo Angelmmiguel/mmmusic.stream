@@ -22,6 +22,10 @@
   padding: 0 1em;
 }
 
+.grid .cell.cell-2 {
+  flex: 2;
+}
+
 /* Responsive */
 .grid--fit > .cell {
   flex: 1;

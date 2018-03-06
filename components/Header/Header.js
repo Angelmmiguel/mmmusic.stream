@@ -12,7 +12,7 @@ class Header extends React.PureComponent {
         <div className="cell">
         <img src="/static/logo.png" alt="mmmusic logo" className="Header__Logo"/>
         </div>
-        <div className="cell Header__Current">
+        <div className="cell cell-2 Header__Current">
           <CurrentChannel playing={ this.props.playing } currentChannel={ this.props.currentChannel } />
         </div>
         <div className="cell Header__Volume">
