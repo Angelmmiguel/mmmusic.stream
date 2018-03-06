@@ -23,7 +23,7 @@ exports[`Index Basic rendering (snapshot) 1`] = `
           />
         </div>
         <div
-          className="jsx-1783182476 cell Header__Current"
+          className="jsx-1783182476 cell cell-2 Header__Current"
         >
           <section
             className="jsx-900726272 CurrentChannel "
