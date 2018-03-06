@@ -1,0 +1,23 @@
+{
+  "channels": [
+    {
+      "title": "Video test 1",
+      "videoId": "iu21hkjasdn",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
+      ]
+    },
+    {
+      "title": "Video test 2",
+      "videoId": "ioqh2ojkndams",
+      "broadcast": false,
+      "genres": [
+        "jazz",
+        "chill out",
+        "ambient"
+      ]
+    }
+  ]
+}

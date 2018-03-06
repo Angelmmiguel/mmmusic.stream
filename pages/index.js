@@ -15,7 +15,7 @@ import Header from '../components/Header';
 import Layout from '../components/Layout';
 import Footer from '../components/Footer';
 
-class Index extends React.Component {
+export class Index extends React.Component {
   static async getInitialProps({ query }) {
     const channels = require('../channels.json').channels;
     const filter = query && query.genre ? query.genre : 'All';
