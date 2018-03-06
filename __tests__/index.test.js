@@ -7,7 +7,7 @@ import renderer from 'react-test-renderer';
 // Channels
 const channels = require('./data/channels.test.json').channels;
 
-import { Index } from '../index.js';
+import { Index } from '../pages/index.js';
 
 describe('Index', () => {
   it('Basic rendering', () => {
