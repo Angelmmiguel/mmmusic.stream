@@ -356,6 +356,44 @@
         "jazz",
         "hip hop"
       ]
+    },
+    {
+      "title": "Funky Way FM - 24/7 Radio - Nu Disco, Electro Swing, Future Bass, and more!",
+      "videoId": "4KzBO4tIIFk",
+      "broadcast": true,
+      "genres": [
+        "chill out",
+        "lofi"
+      ]
+    },
+    {
+      "title": "The Good Life Radio • 24/7 Music Live Stream | Electro Swing, EDM, Chill, Melodic, Vocal, Gaming",
+      "videoId": "NNFT-d3fVD4",
+      "broadcast": true,
+      "genres": [
+        "chill out",
+        "electro"
+      ]
+    },
+    {
+      "title": "▶️ MORNING COFFEE JAZZ Music Radio [ 247 Live Stream ] Uplifting Jazz & More For A Perfect Day",
+      "videoId": "0aAUP3JoBB4",
+      "broadcast": true,
+      "genres": [
+        "jazz",
+        "ambient"
+      ]
+    },
+    {
+      "title": "Dr SaxLove's Smooth Jazz Lounge Live Stream - Instrumental Music for Work, Study, and Relaxation",
+      "videoId": "aLD8xiDTIbo",
+      "broadcast": true,
+      "genres": [
+        "chill out",
+        "jazz",
+        "relax",
+        "ambient"
+      ]
     }
   ]
 }

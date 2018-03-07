@@ -64,7 +64,7 @@ const app = async () => {
           type: 'checkbox',
           name: 'tags',
           message: 'Select the tags to save:',
-          choices: video.snippet.tags.map((t) => ({
+          choices: (video.snippet.tags || []).map((t) => ({
             name: t.toLowerCase(),
             value: t.toLowerCase(),
             checked: genres.indexOf(t) > -1
