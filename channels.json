@@ -20,15 +20,6 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio",
       "videoId": "6rReMbO42uE",
       "broadcast": true,
@@ -40,8 +31,8 @@
       ]
     },
     {
-      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
-      "videoId": "ueupsBPNkSc",
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
       "broadcast": true,
       "genres": [
         "electro",
@@ -68,13 +59,12 @@
       ]
     },
     {
-      "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
-      "videoId": "2L9vFNMvIBE",
+      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
+      "videoId": "ueupsBPNkSc",
       "broadcast": true,
       "genres": [
-        "lofi",
-        "hip hop",
-        "chill out"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -84,6 +74,16 @@
       "genres": [
         "nightcore",
         "electro"
+      ]
+    },
+    {
+      "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
+      "videoId": "2L9vFNMvIBE",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "chill out"
       ]
     },
     {
@@ -135,14 +135,6 @@
       ]
     },
     {
-      "title": "24/7 Rap Music",
-      "videoId": "X25xNUYDBu8",
-      "broadcast": true,
-      "genres": [
-        "hip hop"
-      ]
-    },
-    {
       "title": "Good Vibes Radio • MUSIC LIVE STREAM 24/7",
       "videoId": "koPOXO3_-_M",
       "broadcast": true,
@@ -157,6 +149,14 @@
       "broadcast": true,
       "genres": [
         "anime"
+      ]
+    },
+    {
+      "title": "24/7 Rap Music",
+      "videoId": "X25xNUYDBu8",
+      "broadcast": true,
+      "genres": [
+        "hip hop"
       ]
     },
     {
@@ -193,17 +193,6 @@
       "broadcast": true,
       "genres": [
         "lofi",
-        "hip hop"
-      ]
-    },
-    {
-      "title": "24/7 Lofi Hiphop Radio - Beats to Study/Game/Relax",
-      "videoId": "mTSWcjH1ZnU",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "anime",
-        "chill out",
         "hip hop"
       ]
     },
@@ -346,16 +335,6 @@
       "genres": [
         "soundtrack",
         "videogames"
-      ]
-    },
-    {
-      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
-      "videoId": "XwLILvgX-7A",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "hip hop",
-        "lofi"
       ]
     },
     {
