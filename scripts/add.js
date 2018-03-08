@@ -9,7 +9,7 @@ const getVideoInfo = require('./utils/getVideoInfo');
 
 // Data
 const channels = require('../channels.json').channels;
-const API_TOKEN = process.env.API_TOKEN;
+const YOUTUBE_API_TOKEN = process.env.YOUTUBE_API_TOKEN;
 
 const genres = ['All'];
 channels.forEach((channel) => {
@@ -27,22 +27,22 @@ if (videoId == null) {
   console.error(chalk.red.bold('The ID of the video is missing'));
   console.log(`${chalk.bold('Usage:')} yarn channels:add <videoId>`);
   process.exit(1);
-} else if (API_TOKEN == null) {
-  console.error(chalk.red.bold('The API_TOKEN env var is required'));
+} else if (YOUTUBE_API_TOKEN == null) {
+  console.error(chalk.red.bold('The YOUTUBE_API_TOKEN env var is required'));
   process.exit(1);
 } else if (channels.some((c) => c.videoId === videoId)) {
   console.error(`The video ${chalk.red.bold(videoId)} already exists`);
   process.exit();
 }
 
-const app = async () => {
+const app = () => {
   return new Promise(async (done, reject) => {
     // Spinner
     const spinner = ora(`Getting data from ${videoId}`).start();
     let video;
 
     try {
-      video = await getVideoInfo(videoId, API_TOKEN);
+      video = await getVideoInfo(videoId, YOUTUBE_API_TOKEN);
       spinner.stop();
     } catch (err) {
       spinner.stop();

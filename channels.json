@@ -135,15 +135,6 @@
       ]
     },
     {
-      "title": "Good Vibes Radio • MUSIC LIVE STREAM 24/7",
-      "videoId": "koPOXO3_-_M",
-      "broadcast": true,
-      "genres": [
-        "dubstep",
-        "electro"
-      ]
-    },
-    {
       "title": "ANIME PIANO MUSIC LIVE RADIO 「24 / 7」 🔴 アニメピアノ音楽",
       "videoId": "CDe5lFWVesg",
       "broadcast": true,
@@ -166,16 +157,6 @@
       "genres": [
         "lofi",
         "hip hop"
-      ]
-    },
-    {
-      "title": "💘 24/7 lofi hip hop radio - chill music to sleep & study",
-      "videoId": "4jx6vPGe1sI",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop",
-        "chill out"
       ]
     },
     {
@@ -235,6 +216,15 @@
       ]
     },
     {
+      "title": "Electro Swing Radio 2018 |  24/7 Music Live Stream | Gaming Music",
+      "videoId": "nO1F7a_qkSg",
+      "broadcast": true,
+      "genres": [
+        "dubstep",
+        "electro"
+      ]
+    },
+    {
       "title": "Relaxing Kingdom Hearts Music",
       "videoId": "CSQbUbQ2w-E",
       "broadcast": false,
@@ -244,12 +234,12 @@
       ]
     },
     {
-      "title": "Electro Swing Radio 2018 |  24/7 Music Live Stream | Gaming Music",
-      "videoId": "nO1F7a_qkSg",
-      "broadcast": true,
+      "title": "Electro Swing Collection",
+      "videoId": "C6-TWRn0k4I",
+      "broadcast": false,
       "genres": [
-        "dubstep",
-        "electro"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -262,15 +252,6 @@
         "ambient",
         "jazz",
         "chill out"
-      ]
-    },
-    {
-      "title": "Electro Swing Collection",
-      "videoId": "C6-TWRn0k4I",
-      "broadcast": false,
-      "genres": [
-        "electro",
-        "dubstep"
       ]
     },
     {

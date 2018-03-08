@@ -9,10 +9,10 @@ const getVideoInfo = require('./utils/getVideoInfo');
 
 // Data
 const channels = require('../channels.json').channels;
-const API_TOKEN = process.env.API_TOKEN;
+const YOUTUBE_API_TOKEN = process.env.YOUTUBE_API_TOKEN;
 
-if (API_TOKEN == null) {
-  console.error(chalk.bold('The API_TOKEN env var is required. Skipping the test'));
+if (YOUTUBE_API_TOKEN == null) {
+  console.error(chalk.bold('The YOUTUBE_API_TOKEN env var is required'));
   process.exit();
 }
 
@@ -32,7 +32,7 @@ const app = () => {
   return new Promise((done, reject) => {
     async.eachOfLimit(channels, 2, async (channel) => {
       spinner.text = `Checking [${channel.videoId}] ${channel.title} (${channel.videoId})`;
-      const video = await getVideoInfo(channel.videoId, API_TOKEN);
+      const video = await getVideoInfo(channel.videoId, YOUTUBE_API_TOKEN);
 
       // Check the embeddable status
       let status = video != null && video.status.embeddable == true;
