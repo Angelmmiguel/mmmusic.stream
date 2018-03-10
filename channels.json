@@ -1,6 +1,16 @@
 {
   "channels": [
     {
+      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
+      "videoId": "2ccaHpy5Ewo",
+      "broadcast": true,
+      "genres": [
+        "jazz",
+        "chill out",
+        "ambient"
+      ]
+    },
+    {
       "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
       "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
@@ -10,13 +20,12 @@
       ]
     },
     {
-      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
-      "videoId": "2ccaHpy5Ewo",
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
       "broadcast": true,
       "genres": [
-        "jazz",
-        "chill out",
-        "ambient"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -28,15 +37,6 @@
         "chill out",
         "hip hop",
         "jazz"
-      ]
-    },
-    {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
       ]
     },
     {
@@ -188,15 +188,6 @@
       ]
     },
     {
-      "title": "24/7 lofi hip hop radio - beats to chill/study/relax",
-      "videoId": "l7G10qrZD0c",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop"
-      ]
-    },
-    {
       "title": "Relaxing The Legend of Zelda Music",
       "videoId": "FemdTEIDvRM",
       "broadcast": false,
@@ -268,26 +259,6 @@
       "broadcast": true,
       "genres": [
         "hip hop"
-      ]
-    },
-    {
-      "title": "ＣＨＩＬＬ　ＲＡＤＩＯ　   ２４／７",
-      "videoId": "8f3tfSSiIWk",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "relax",
-        "jazz",
-        "chill out"
-      ]
-    },
-    {
-      "title": "CHILL MUSIC 24/7 by PULSE8 [QHD] ❤ Chillstep / Chillout / Ambient / Melodic / Euphoric / Relaxing",
-      "videoId": "fT92vGzr8X4",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
       ]
     },
     {
