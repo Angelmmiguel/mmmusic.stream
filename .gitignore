@@ -63,3 +63,6 @@ out
 
 # Mac shit
 .DS_Store
+
+# Sitemap
+static/sitemap.xml

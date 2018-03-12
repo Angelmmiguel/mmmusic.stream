@@ -29,7 +29,7 @@ class Layout extends React.Component {
     return <div>
       <Head>
         <title>{ this.title }</title>
-        <meta name="description" content="mmmusic handpicks and groups 24/7 streaming music channels for focusing, working, playing, meditating and relaxing. You will find the right music channel for every moment." />
+        <meta name="description" content="mmmusic handpicks and groups 24/7 streaming music channels for focusing, working, playing, meditating and relaxing. You will find the right radio channel for every moment." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" />
         <link href="/static/styles/grid.css" rel="stylesheet" />

@@ -159,7 +159,7 @@ export class Index extends React.Component {
   get pageTitle() {
     return this.props.filter === 'All' ?
       null :
-      `${this.props.filter.replace(/\b\w/g, l => l.toUpperCase())} | mmmusic. 24/7 music to focus, work and relax`;
+      `${this.props.filter.replace(/\b\w/g, l => l.toUpperCase())} radio | mmmusic. 24/7 music to focus, work and relax`;
   }
 
   render() {

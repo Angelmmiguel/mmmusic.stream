@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "node server.js",
+    "prebuild": "./scripts/sitemap.js",
     "build": "next build && next export",
     "start": "NODE_ENV=production node server.js",
     "test": "NODE_ENV=test jest",
