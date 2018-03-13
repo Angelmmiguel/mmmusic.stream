@@ -20,15 +20,6 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio",
       "videoId": "6rReMbO42uE",
       "broadcast": true,
@@ -40,13 +31,12 @@
       ]
     },
     {
-      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
-      "videoId": "2atQnvunGCo",
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
       "broadcast": true,
       "genres": [
-        "lofi",
-        "hip hop",
-        "electro"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -56,6 +46,16 @@
       "genres": [
         "nightcore",
         "anime"
+      ]
+    },
+    {
+      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
+      "videoId": "2atQnvunGCo",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "electro"
       ]
     },
     {
@@ -117,14 +117,6 @@
       ]
     },
     {
-      "title": "Rap Music Radio 🔥 24/7 Hit Music",
-      "videoId": "ZJE8dbW10h4",
-      "broadcast": true,
-      "genres": [
-        "hip hop"
-      ]
-    },
-    {
       "title": "24/7 Good Music ● Live Radio 🎧",
       "videoId": "1OfoS6u_8N4",
       "broadcast": true,
@@ -135,11 +127,11 @@
       ]
     },
     {
-      "title": "ANIME PIANO MUSIC LIVE RADIO 「24 / 7」 🔴 アニメピアノ音楽",
-      "videoId": "CDe5lFWVesg",
+      "title": "Rap Music Radio 🔥 24/7 Hit Music",
+      "videoId": "ZJE8dbW10h4",
       "broadcast": true,
       "genres": [
-        "anime"
+        "hip hop"
       ]
     },
     {
@@ -290,16 +282,6 @@
       ]
     },
     {
-      "title": "Retro Jungle 24/7 radio Lofi hip hop & chill music",
-      "videoId": "mW_5sn0bu2k",
-      "broadcast": true,
-      "genres": [
-        "hip hop",
-        "relax",
-        "lofi"
-      ]
-    },
-    {
       "title": "Blossom 24/7 Radio - (Jazz/Chill/Lofi HipHop)",
       "videoId": "gg-xCZa115M",
       "broadcast": true,
@@ -345,6 +327,59 @@
         "jazz",
         "relax",
         "ambient"
+      ]
+    },
+    {
+      "title": "✔ Nightcore Rock/Metal Radio Live",
+      "videoId": "RXOXoiwoMz4",
+      "broadcast": true,
+      "genres": [
+        "nightcore",
+        "anime"
+      ]
+    },
+    {
+      "title": "👑 ~ 24/7 The Ultimate Nightcore Radio | Top Quality Music ~ 👑",
+      "videoId": "v9gqQ1Ua-dM",
+      "broadcast": true,
+      "genres": [
+        "anime",
+        "nightcore"
+      ]
+    },
+    {
+      "title": "✔ Nightcore Radio || Ruby's Radio 【24/7】 (hopefully) ♡",
+      "videoId": "tG_mV7S0-x0",
+      "broadcast": true,
+      "genres": [
+        "nightcore",
+        "anime"
+      ]
+    },
+    {
+      "title": "Nightcore Radio - 24/7 Music Live Stream",
+      "videoId": "LMoervyWUZ0",
+      "broadcast": true,
+      "genres": [
+        "nightcore"
+      ]
+    },
+    {
+      "title": "⭐ Nightcore Radio 『24/7』 | Best Nightcore Hits Of 2017 & 2018 ⭐",
+      "videoId": "VMdhBQWsC94",
+      "broadcast": true,
+      "genres": [
+        "anime",
+        "nightcore"
+      ]
+    },
+    {
+      "title": "Nightcore Live  24/7 ♫ Ultimate Nightcore Music Live 2018 👑 All NightcoreMusic",
+      "videoId": "JwnpaEgc6x0",
+      "broadcast": true,
+      "genres": [
+        "nightcore",
+        "anime"
       ]
     }
   ]
