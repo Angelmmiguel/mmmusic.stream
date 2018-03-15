@@ -1,6 +1,15 @@
 {
   "channels": [
     {
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
+      ]
+    },
+    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -8,15 +17,6 @@
         "jazz",
         "chill out",
         "ambient"
-      ]
-    },
-    {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
       ]
     },
     {
@@ -59,21 +59,21 @@
       ]
     },
     {
-      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
-      "videoId": "ueupsBPNkSc",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "Nightcore Radio 「24/7」Ultimate Nightcore Music",
       "videoId": "DzNPBqcJGk4",
       "broadcast": true,
       "genres": [
         "nightcore",
         "electro"
+      ]
+    },
+    {
+      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
+      "videoId": "ueupsBPNkSc",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -124,14 +124,6 @@
         "hip hop",
         "chill out",
         "jazz"
-      ]
-    },
-    {
-      "title": "Rap Music Radio 🔥 24/7 Hit Music",
-      "videoId": "ZJE8dbW10h4",
-      "broadcast": true,
-      "genres": [
-        "hip hop"
       ]
     },
     {
@@ -238,22 +230,6 @@
       ]
     },
     {
-      "title": "RNB Music Radio - Giftcard Giveaway Live  24/7 🎧🎶",
-      "videoId": "kCziHoCBrug",
-      "broadcast": true,
-      "genres": [
-        "hip hop"
-      ]
-    },
-    {
-      "title": "24/7 Gangster Rap / Hip-Hop Music 🎤 Real Underground Rappers 🔥 Old School / New Rap & Hip Hop",
-      "videoId": "QtaUh37baGg",
-      "broadcast": true,
-      "genres": [
-        "hip hop"
-      ]
-    },
-    {
       "title": "Beautiful Relaxing Music 24/7: Study Music, Sleep Music, Meditation Music, Sleeping Music",
       "videoId": "NuIAYHVeFYs",
       "broadcast": true,
@@ -270,15 +246,6 @@
         "chill out",
         "electro",
         "dubstep"
-      ]
-    },
-    {
-      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
-      "videoId": "TWv3DfoiigM",
-      "broadcast": false,
-      "genres": [
-        "soundtrack",
-        "videogames"
       ]
     },
     {
@@ -301,6 +268,15 @@
       ]
     },
     {
+      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
+      "videoId": "TWv3DfoiigM",
+      "broadcast": false,
+      "genres": [
+        "soundtrack",
+        "videogames"
+      ]
+    },
+    {
       "title": "The Good Life Radio • 24/7 Music Live Stream | Electro Swing, EDM, Chill, Melodic, Vocal, Gaming",
       "videoId": "NNFT-d3fVD4",
       "broadcast": true,
@@ -316,26 +292,6 @@
       "genres": [
         "jazz",
         "ambient"
-      ]
-    },
-    {
-      "title": "Dr SaxLove's Smooth Jazz Lounge Live Stream - Instrumental Music for Work, Study, and Relaxation",
-      "videoId": "aLD8xiDTIbo",
-      "broadcast": true,
-      "genres": [
-        "chill out",
-        "jazz",
-        "relax",
-        "ambient"
-      ]
-    },
-    {
-      "title": "✔ Nightcore Rock/Metal Radio Live",
-      "videoId": "RXOXoiwoMz4",
-      "broadcast": true,
-      "genres": [
-        "nightcore",
-        "anime"
       ]
     },
     {
@@ -371,15 +327,6 @@
       "genres": [
         "anime",
         "nightcore"
-      ]
-    },
-    {
-      "title": "Nightcore Live  24/7 ♫ Ultimate Nightcore Music Live 2018 👑 All NightcoreMusic",
-      "videoId": "JwnpaEgc6x0",
-      "broadcast": true,
-      "genres": [
-        "nightcore",
-        "anime"
       ]
     }
   ]
