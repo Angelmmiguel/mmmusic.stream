@@ -13,7 +13,7 @@ jobs:
     - stage: test
       script:
         - yarn test
-    - stage: channels:test
+    - stage: channels:clean
       if: type = cron
       script:
-        - yarn channels:test
+        - ./scripts/clean.sh

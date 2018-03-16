@@ -66,3 +66,7 @@ out
 
 # Sitemap
 static/sitemap.xml
+
+# deploy non-encrypted keys
+deploy/rsa
+deploy/rsa.pub
