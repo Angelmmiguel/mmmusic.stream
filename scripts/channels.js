@@ -78,6 +78,7 @@ app()
       console.log(chalk.red.bold("Failed channels:"));
       result.failed.forEach((channel) => console.log(`> [https://youtube.com/watch?v=${channel.videoId}] ${channel.title}`))
       console.log('');
+      process.exit(result.failed.length > 0);
     }
   }).catch((err) => {
     console.error(err.toString());
