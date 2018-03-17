@@ -79,8 +79,6 @@ app()
       result.failed.forEach((channel) => console.log(`> [https://youtube.com/watch?v=${channel.videoId}] ${channel.title}`))
       console.log('');
     }
-
-    process.exit(result.failed.length > 0);
   }).catch((err) => {
     console.error(err.toString());
     process.exit(1);
