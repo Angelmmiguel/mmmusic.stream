@@ -18,7 +18,8 @@ yarn run channels:clean
 if [[ `git status --porcelain` ]]; then
   # Commit the changes
   echo "Pushing the changes"
+  git checkout master
   git add channels.json
   git commit -m "Automatically clean channels"
-  git push
+  git push origin master
 fi
