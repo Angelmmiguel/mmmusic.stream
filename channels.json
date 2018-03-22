@@ -1,6 +1,15 @@
 {
   "channels": [
     {
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
+      ]
+    },
+    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -8,15 +17,6 @@
         "jazz",
         "chill out",
         "ambient"
-      ]
-    },
-    {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
       ]
     },
     {
@@ -40,15 +40,6 @@
       ]
     },
     {
-      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
-      "videoId": "OP9CEMY5gkI",
-      "broadcast": true,
-      "genres": [
-        "nightcore",
-        "anime"
-      ]
-    },
-    {
       "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
       "videoId": "2atQnvunGCo",
       "broadcast": true,
@@ -56,6 +47,15 @@
         "lofi",
         "hip hop",
         "electro"
+      ]
+    },
+    {
+      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
+      "videoId": "OP9CEMY5gkI",
+      "broadcast": true,
+      "genres": [
+        "nightcore",
+        "anime"
       ]
     },
     {
@@ -117,16 +117,6 @@
       ]
     },
     {
-      "title": "24/7 Good Music ● Live Radio 🎧",
-      "videoId": "1OfoS6u_8N4",
-      "broadcast": true,
-      "genres": [
-        "hip hop",
-        "chill out",
-        "jazz"
-      ]
-    },
-    {
       "title": "24/7 Rap Music",
       "videoId": "X25xNUYDBu8",
       "broadcast": true,
@@ -144,8 +134,8 @@
       ]
     },
     {
-      "title": "🌥️ Dream Easy Radio  24/7 lofi hip hop, jazzhop & chill music",
-      "videoId": "F632pibCpIg",
+      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
+      "videoId": "RBM8Dp0Zhog",
       "broadcast": true,
       "genres": [
         "lofi",
@@ -153,8 +143,8 @@
       ]
     },
     {
-      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
-      "videoId": "RBM8Dp0Zhog",
+      "title": "🌥️ Dream Easy Radio  24/7 lofi hip hop, jazzhop & chill music",
+      "videoId": "F632pibCpIg",
       "broadcast": true,
       "genres": [
         "lofi",
