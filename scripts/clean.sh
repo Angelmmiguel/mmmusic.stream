@@ -18,6 +18,8 @@ yarn run channels:clean
 if [[ `git status --porcelain` ]]; then
   # Commit the changes
   echo "Pushing the changes"
+  git remote rm origin
+  git remote add origin git@github.com:Angelmmiguel/mmmusic.stream.git
   git checkout master
   git add channels.json
   git commit -m "Automatically clean channels"
