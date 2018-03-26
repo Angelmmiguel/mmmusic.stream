@@ -20,6 +20,15 @@
       ]
     },
     {
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
+      ]
+    },
+    {
       "title": "24/7 lofi hip hop radio",
       "videoId": "6rReMbO42uE",
       "broadcast": true,
@@ -31,12 +40,12 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
+      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
+      "videoId": "OP9CEMY5gkI",
       "broadcast": true,
       "genres": [
-        "electro",
-        "dubstep"
+        "nightcore",
+        "anime"
       ]
     },
     {
@@ -47,15 +56,6 @@
         "lofi",
         "hip hop",
         "electro"
-      ]
-    },
-    {
-      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
-      "videoId": "OP9CEMY5gkI",
-      "broadcast": true,
-      "genres": [
-        "nightcore",
-        "anime"
       ]
     },
     {
@@ -97,16 +97,6 @@
       ]
     },
     {
-      "title": "sweet dreams | sleep radio",
-      "videoId": "K6IXPdMAVfM",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out",
-        "relax"
-      ]
-    },
-    {
       "title": "Good Vibes Radio · 24/7",
       "videoId": "__GmhW9nEtY",
       "broadcast": true,
@@ -114,6 +104,16 @@
         "dubstep",
         "chill out",
         "electro"
+      ]
+    },
+    {
+      "title": "sweet dreams | sleep radio",
+      "videoId": "K6IXPdMAVfM",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out",
+        "relax"
       ]
     },
     {
@@ -171,15 +171,6 @@
       ]
     },
     {
-      "title": "Electro Swing Radio 2018 |  24/7 Music Live Stream | Gaming Music",
-      "videoId": "nO1F7a_qkSg",
-      "broadcast": true,
-      "genres": [
-        "dubstep",
-        "electro"
-      ]
-    },
-    {
       "title": "Relaxing Kingdom Hearts Music",
       "videoId": "CSQbUbQ2w-E",
       "broadcast": false,
@@ -210,15 +201,6 @@
       ]
     },
     {
-      "title": "Beautiful Relaxing Music 24/7: Study Music, Sleep Music, Meditation Music, Sleeping Music",
-      "videoId": "NuIAYHVeFYs",
-      "broadcast": true,
-      "genres": [
-        "relax",
-        "ambient"
-      ]
-    },
-    {
       "title": "Relaxing Animal Crossing Music Compilation",
       "videoId": "5Y85otqcPak",
       "broadcast": false,
@@ -226,6 +208,15 @@
         "ambient",
         "relax",
         "videogames"
+      ]
+    },
+    {
+      "title": "Beautiful Relaxing Music 24/7: Study Music, Sleep Music, Meditation Music, Sleeping Music",
+      "videoId": "NuIAYHVeFYs",
+      "broadcast": true,
+      "genres": [
+        "relax",
+        "ambient"
       ]
     },
     {
@@ -249,30 +240,12 @@
       ]
     },
     {
-      "title": "Funky Way FM - 24/7 Radio - Nu Disco, Electro Swing, Future Bass, and more!",
-      "videoId": "4KzBO4tIIFk",
-      "broadcast": true,
-      "genres": [
-        "chill out",
-        "lofi"
-      ]
-    },
-    {
       "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
       "videoId": "TWv3DfoiigM",
       "broadcast": false,
       "genres": [
         "soundtrack",
         "videogames"
-      ]
-    },
-    {
-      "title": "The Good Life Radio • 24/7 Music Live Stream | Electro Swing, EDM, Chill, Melodic, Vocal, Gaming",
-      "videoId": "NNFT-d3fVD4",
-      "broadcast": true,
-      "genres": [
-        "chill out",
-        "electro"
       ]
     },
     {
