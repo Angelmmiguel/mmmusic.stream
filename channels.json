@@ -97,16 +97,6 @@
       ]
     },
     {
-      "title": "Good Vibes Radio · 24/7",
-      "videoId": "__GmhW9nEtY",
-      "broadcast": true,
-      "genres": [
-        "dubstep",
-        "chill out",
-        "electro"
-      ]
-    },
-    {
       "title": "sweet dreams | sleep radio",
       "videoId": "K6IXPdMAVfM",
       "broadcast": true,
@@ -114,6 +104,16 @@
         "ambient",
         "chill out",
         "relax"
+      ]
+    },
+    {
+      "title": "Good Vibes Radio · 24/7",
+      "videoId": "__GmhW9nEtY",
+      "broadcast": true,
+      "genres": [
+        "dubstep",
+        "chill out",
+        "electro"
       ]
     },
     {
@@ -211,15 +211,6 @@
       ]
     },
     {
-      "title": "Beautiful Relaxing Music 24/7: Study Music, Sleep Music, Meditation Music, Sleeping Music",
-      "videoId": "NuIAYHVeFYs",
-      "broadcast": true,
-      "genres": [
-        "relax",
-        "ambient"
-      ]
-    },
-    {
       "title": "The Good Life Radio • 24/7 Music Live Stream | Deep & Tropical House, Chill Music, EDM",
       "videoId": "ftJYyevC6Us",
       "broadcast": true,
@@ -230,12 +221,12 @@
       ]
     },
     {
-      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
-      "videoId": "TWv3DfoiigM",
-      "broadcast": false,
+      "title": "Beautiful Relaxing Music 24/7: Study Music, Sleep Music, Meditation Music, Sleeping Music",
+      "videoId": "NuIAYHVeFYs",
+      "broadcast": true,
       "genres": [
-        "soundtrack",
-        "videogames"
+        "relax",
+        "ambient"
       ]
     },
     {
@@ -246,6 +237,15 @@
         "lofi",
         "jazz",
         "hip hop"
+      ]
+    },
+    {
+      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
+      "videoId": "TWv3DfoiigM",
+      "broadcast": false,
+      "genres": [
+        "soundtrack",
+        "videogames"
       ]
     },
     {
