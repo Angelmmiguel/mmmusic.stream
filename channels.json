@@ -1,15 +1,6 @@
 {
   "channels": [
     {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
-      ]
-    },
-    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -20,12 +11,12 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
       "genres": [
-        "electro",
-        "dubstep"
+        "ambient",
+        "chill out"
       ]
     },
     {
@@ -37,6 +28,15 @@
         "chill out",
         "hip hop",
         "jazz"
+      ]
+    },
+    {
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -59,21 +59,21 @@
       ]
     },
     {
-      "title": "Nightcore Radio 「24/7」Ultimate Nightcore Music",
-      "videoId": "DzNPBqcJGk4",
-      "broadcast": true,
-      "genres": [
-        "nightcore",
-        "electro"
-      ]
-    },
-    {
       "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
       "videoId": "ueupsBPNkSc",
       "broadcast": true,
       "genres": [
         "electro",
         "dubstep"
+      ]
+    },
+    {
+      "title": "Nightcore Radio 「24/7」Ultimate Nightcore Music",
+      "videoId": "DzNPBqcJGk4",
+      "broadcast": true,
+      "genres": [
+        "nightcore",
+        "electro"
       ]
     },
     {
@@ -97,16 +97,6 @@
       ]
     },
     {
-      "title": "sweet dreams | sleep radio",
-      "videoId": "K6IXPdMAVfM",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out",
-        "relax"
-      ]
-    },
-    {
       "title": "Good Vibes Radio · 24/7",
       "videoId": "__GmhW9nEtY",
       "broadcast": true,
@@ -114,6 +104,16 @@
         "dubstep",
         "chill out",
         "electro"
+      ]
+    },
+    {
+      "title": "sweet dreams | sleep radio",
+      "videoId": "K6IXPdMAVfM",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out",
+        "relax"
       ]
     },
     {
@@ -143,15 +143,6 @@
       ]
     },
     {
-      "title": "🌥️ Dream Easy Radio  24/7 lofi hip hop, jazzhop & chill music",
-      "videoId": "F632pibCpIg",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop"
-      ]
-    },
-    {
       "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
       "videoId": "kq7cQNO0gYc",
       "broadcast": false,
@@ -162,21 +153,21 @@
       ]
     },
     {
-      "title": "Relaxing The Legend of Zelda Music",
-      "videoId": "FemdTEIDvRM",
-      "broadcast": false,
-      "genres": [
-        "videogames",
-        "chill out"
-      ]
-    },
-    {
       "title": "Relaxing Kingdom Hearts Music",
       "videoId": "CSQbUbQ2w-E",
       "broadcast": false,
       "genres": [
         "ambient",
         "videogames"
+      ]
+    },
+    {
+      "title": "Relaxing The Legend of Zelda Music",
+      "videoId": "FemdTEIDvRM",
+      "broadcast": false,
+      "genres": [
+        "videogames",
+        "chill out"
       ]
     },
     {
