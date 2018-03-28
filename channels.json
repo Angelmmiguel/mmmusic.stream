@@ -59,21 +59,21 @@
       ]
     },
     {
-      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
-      "videoId": "ueupsBPNkSc",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "Nightcore Radio 「24/7」Ultimate Nightcore Music",
       "videoId": "DzNPBqcJGk4",
       "broadcast": true,
       "genres": [
         "nightcore",
         "electro"
+      ]
+    },
+    {
+      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
+      "videoId": "ueupsBPNkSc",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -134,15 +134,6 @@
       ]
     },
     {
-      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
-      "videoId": "RBM8Dp0Zhog",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop"
-      ]
-    },
-    {
       "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
       "videoId": "kq7cQNO0gYc",
       "broadcast": false,
@@ -150,6 +141,15 @@
         "lofi",
         "anime",
         "chill out"
+      ]
+    },
+    {
+      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
+      "videoId": "RBM8Dp0Zhog",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop"
       ]
     },
     {
