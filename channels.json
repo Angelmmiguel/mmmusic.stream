@@ -117,19 +117,19 @@
       ]
     },
     {
-      "title": "24/7 Rap Music",
-      "videoId": "X25xNUYDBu8",
-      "broadcast": true,
-      "genres": [
-        "hip hop"
-      ]
-    },
-    {
       "title": "Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]",
       "videoId": "8iU8LPEa4o0",
       "broadcast": false,
       "genres": [
         "lofi",
+        "hip hop"
+      ]
+    },
+    {
+      "title": "24/7 Rap Music",
+      "videoId": "X25xNUYDBu8",
+      "broadcast": true,
+      "genres": [
         "hip hop"
       ]
     },
