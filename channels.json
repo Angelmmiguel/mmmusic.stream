@@ -1,6 +1,15 @@
 {
   "channels": [
     {
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
+      ]
+    },
+    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -8,15 +17,6 @@
         "jazz",
         "chill out",
         "ambient"
-      ]
-    },
-    {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
       ]
     },
     {
@@ -162,15 +162,6 @@
       ]
     },
     {
-      "title": "Relaxing The Legend of Zelda Music",
-      "videoId": "FemdTEIDvRM",
-      "broadcast": false,
-      "genres": [
-        "videogames",
-        "chill out"
-      ]
-    },
-    {
       "title": "Electro Swing Collection",
       "videoId": "C6-TWRn0k4I",
       "broadcast": false,
@@ -192,6 +183,15 @@
       ]
     },
     {
+      "title": "Relaxing The Legend of Zelda Music",
+      "videoId": "FemdTEIDvRM",
+      "broadcast": false,
+      "genres": [
+        "videogames",
+        "chill out"
+      ]
+    },
+    {
       "title": "Relaxing Animal Crossing Music Compilation",
       "videoId": "5Y85otqcPak",
       "broadcast": false,
@@ -199,16 +199,6 @@
         "ambient",
         "relax",
         "videogames"
-      ]
-    },
-    {
-      "title": "The Good Life Radio • 24/7 Music Live Stream | Deep & Tropical House, Chill Music, EDM",
-      "videoId": "ftJYyevC6Us",
-      "broadcast": true,
-      "genres": [
-        "chill out",
-        "electro",
-        "dubstep"
       ]
     },
     {
