@@ -1,16 +1,6 @@
 {
   "channels": [
     {
-      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
-      "videoId": "2ccaHpy5Ewo",
-      "broadcast": true,
-      "genres": [
-        "jazz",
-        "chill out",
-        "ambient"
-      ]
-    },
-    {
       "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
       "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
@@ -20,12 +10,13 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
+      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
+      "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
       "genres": [
-        "electro",
-        "dubstep"
+        "jazz",
+        "chill out",
+        "ambient"
       ]
     },
     {
@@ -37,6 +28,15 @@
         "chill out",
         "hip hop",
         "jazz"
+      ]
+    },
+    {
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -117,15 +117,6 @@
       ]
     },
     {
-      "title": "Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]",
-      "videoId": "8iU8LPEa4o0",
-      "broadcast": false,
-      "genres": [
-        "lofi",
-        "hip hop"
-      ]
-    },
-    {
       "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
       "videoId": "kq7cQNO0gYc",
       "broadcast": false,
@@ -136,10 +127,11 @@
       ]
     },
     {
-      "title": "24/7 Rap Music",
-      "videoId": "X25xNUYDBu8",
-      "broadcast": true,
+      "title": "Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]",
+      "videoId": "8iU8LPEa4o0",
+      "broadcast": false,
       "genres": [
+        "lofi",
         "hip hop"
       ]
     },
@@ -153,11 +145,10 @@
       ]
     },
     {
-      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
-      "videoId": "RBM8Dp0Zhog",
+      "title": "24/7 Rap Music",
+      "videoId": "X25xNUYDBu8",
       "broadcast": true,
       "genres": [
-        "lofi",
         "hip hop"
       ]
     },
@@ -171,15 +162,12 @@
       ]
     },
     {
-      "title": "ＣＡＬＭ　ＲＡＤＩＯ　－　ＬＯＦＩ　ＨＩＰＨＯＰ　２４／７　平和",
-      "videoId": "fxn8p26WTR4",
+      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
+      "videoId": "RBM8Dp0Zhog",
       "broadcast": true,
       "genres": [
         "lofi",
-        "relax",
-        "ambient",
-        "jazz",
-        "chill out"
+        "hip hop"
       ]
     },
     {
@@ -188,6 +176,18 @@
       "broadcast": false,
       "genres": [
         "videogames",
+        "chill out"
+      ]
+    },
+    {
+      "title": "ＣＡＬＭ　ＲＡＤＩＯ　－　ＬＯＦＩ　ＨＩＰＨＯＰ　２４／７　平和",
+      "videoId": "fxn8p26WTR4",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "relax",
+        "ambient",
+        "jazz",
         "chill out"
       ]
     },
