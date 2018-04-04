@@ -1,15 +1,6 @@
 {
   "channels": [
     {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
-      ]
-    },
-    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -17,6 +8,15 @@
         "jazz",
         "chill out",
         "ambient"
+      ]
+    },
+    {
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
       ]
     },
     {
@@ -136,21 +136,21 @@
       ]
     },
     {
-      "title": "Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]",
-      "videoId": "8iU8LPEa4o0",
-      "broadcast": false,
-      "genres": [
-        "lofi",
-        "hip hop"
-      ]
-    },
-    {
       "title": "Electro Swing Collection",
       "videoId": "C6-TWRn0k4I",
       "broadcast": false,
       "genres": [
         "electro",
         "dubstep"
+      ]
+    },
+    {
+      "title": "Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]",
+      "videoId": "8iU8LPEa4o0",
+      "broadcast": false,
+      "genres": [
+        "lofi",
+        "hip hop"
       ]
     },
     {
