@@ -20,6 +20,15 @@
       ]
     },
     {
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
+      ]
+    },
+    {
       "title": "24/7 lofi hip hop radio",
       "videoId": "6rReMbO42uE",
       "broadcast": true,
@@ -28,15 +37,6 @@
         "chill out",
         "hip hop",
         "jazz"
-      ]
-    },
-    {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
       ]
     },
     {
@@ -211,6 +211,15 @@
       ]
     },
     {
+      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
+      "videoId": "TWv3DfoiigM",
+      "broadcast": false,
+      "genres": [
+        "soundtrack",
+        "videogames"
+      ]
+    },
+    {
       "title": "Blossom 24/7 Radio - (Jazz/Chill/Lofi HipHop)",
       "videoId": "gg-xCZa115M",
       "broadcast": true,
@@ -218,15 +227,6 @@
         "lofi",
         "jazz",
         "hip hop"
-      ]
-    },
-    {
-      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
-      "videoId": "TWv3DfoiigM",
-      "broadcast": false,
-      "genres": [
-        "soundtrack",
-        "videogames"
       ]
     },
     {
