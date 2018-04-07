@@ -1,15 +1,6 @@
 {
   "channels": [
     {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
-      ]
-    },
-    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -17,6 +8,15 @@
         "jazz",
         "chill out",
         "ambient"
+      ]
+    },
+    {
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
       ]
     },
     {
@@ -202,15 +202,6 @@
       ]
     },
     {
-      "title": "Beautiful Relaxing Music 24/7: Study Music, Sleep Music, Meditation Music, Sleeping Music",
-      "videoId": "NuIAYHVeFYs",
-      "broadcast": true,
-      "genres": [
-        "relax",
-        "ambient"
-      ]
-    },
-    {
       "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
       "videoId": "TWv3DfoiigM",
       "broadcast": false,
@@ -230,11 +221,11 @@
       ]
     },
     {
-      "title": "▶️ MORNING COFFEE JAZZ Music Radio [ 247 Live Stream ] Uplifting Jazz & More For A Perfect Day",
-      "videoId": "0aAUP3JoBB4",
+      "title": "Beautiful Relaxing Music 24/7: Study Music, Sleep Music, Meditation Music, Sleeping Music",
+      "videoId": "NuIAYHVeFYs",
       "broadcast": true,
       "genres": [
-        "jazz",
+        "relax",
         "ambient"
       ]
     },
@@ -248,12 +239,12 @@
       ]
     },
     {
-      "title": "✔ Nightcore Radio || Ruby's Radio 【24/7】 (hopefully) ♡",
-      "videoId": "tG_mV7S0-x0",
+      "title": "▶️ MORNING COFFEE JAZZ Music Radio [ 247 Live Stream ] Uplifting Jazz & More For A Perfect Day",
+      "videoId": "0aAUP3JoBB4",
       "broadcast": true,
       "genres": [
-        "nightcore",
-        "anime"
+        "jazz",
+        "ambient"
       ]
     },
     {
@@ -263,6 +254,15 @@
       "genres": [
         "anime",
         "nightcore"
+      ]
+    },
+    {
+      "title": "✔ Nightcore Radio || Ruby's Radio 【24/7】 (hopefully) ♡",
+      "videoId": "tG_mV7S0-x0",
+      "broadcast": true,
+      "genres": [
+        "nightcore",
+        "anime"
       ]
     }
   ]
