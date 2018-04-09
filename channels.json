@@ -1,6 +1,15 @@
 {
   "channels": [
     {
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
+      ]
+    },
+    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -11,12 +20,12 @@
       ]
     },
     {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
       "broadcast": true,
       "genres": [
-        "ambient",
-        "chill out"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -31,12 +40,13 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
+      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
+      "videoId": "2atQnvunGCo",
       "broadcast": true,
       "genres": [
-        "electro",
-        "dubstep"
+        "lofi",
+        "hip hop",
+        "electro"
       ]
     },
     {
@@ -49,13 +59,12 @@
       ]
     },
     {
-      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
-      "videoId": "2atQnvunGCo",
+      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
+      "videoId": "ueupsBPNkSc",
       "broadcast": true,
       "genres": [
-        "lofi",
-        "hip hop",
-        "electro"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -65,15 +74,6 @@
       "genres": [
         "nightcore",
         "electro"
-      ]
-    },
-    {
-      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
-      "videoId": "ueupsBPNkSc",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
       ]
     },
     {
@@ -117,6 +117,15 @@
       ]
     },
     {
+      "title": "Electro Swing Collection",
+      "videoId": "C6-TWRn0k4I",
+      "broadcast": false,
+      "genres": [
+        "electro",
+        "dubstep"
+      ]
+    },
+    {
       "title": "sweet dreams | sleep radio",
       "videoId": "K6IXPdMAVfM",
       "broadcast": true,
@@ -124,15 +133,6 @@
         "ambient",
         "chill out",
         "relax"
-      ]
-    },
-    {
-      "title": "Electro Swing Collection",
-      "videoId": "C6-TWRn0k4I",
-      "broadcast": false,
-      "genres": [
-        "electro",
-        "dubstep"
       ]
     },
     {
