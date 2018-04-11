@@ -20,15 +20,6 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio",
       "videoId": "6rReMbO42uE",
       "broadcast": true,
@@ -37,6 +28,15 @@
         "chill out",
         "hip hop",
         "jazz"
+      ]
+    },
+    {
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -59,15 +59,6 @@
       ]
     },
     {
-      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
-      "videoId": "ueupsBPNkSc",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "Nightcore Radio 「24/7」Ultimate Nightcore Music",
       "videoId": "DzNPBqcJGk4",
       "broadcast": true,
@@ -77,13 +68,12 @@
       ]
     },
     {
-      "title": "College Music · 24/7 Live Radio",
-      "videoId": "gmv54pfxk0Q",
+      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
+      "videoId": "ueupsBPNkSc",
       "broadcast": true,
       "genres": [
-        "lofi",
-        "chill out",
-        "relax"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -94,6 +84,16 @@
         "lofi",
         "hip hop",
         "chill out"
+      ]
+    },
+    {
+      "title": "College Music · 24/7 Live Radio",
+      "videoId": "gmv54pfxk0Q",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "chill out",
+        "relax"
       ]
     },
     {
@@ -154,14 +154,6 @@
       ]
     },
     {
-      "title": "24/7 Rap Music",
-      "videoId": "X25xNUYDBu8",
-      "broadcast": true,
-      "genres": [
-        "hip hop"
-      ]
-    },
-    {
       "title": "Relaxing Animal Crossing Music Compilation",
       "videoId": "5Y85otqcPak",
       "broadcast": false,
@@ -169,6 +161,14 @@
         "ambient",
         "relax",
         "videogames"
+      ]
+    },
+    {
+      "title": "24/7 Rap Music",
+      "videoId": "X25xNUYDBu8",
+      "broadcast": true,
+      "genres": [
+        "hip hop"
       ]
     },
     {
@@ -190,6 +190,15 @@
       ]
     },
     {
+      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
+      "videoId": "TWv3DfoiigM",
+      "broadcast": false,
+      "genres": [
+        "soundtrack",
+        "videogames"
+      ]
+    },
+    {
       "title": "ＣＡＬＭ　ＲＡＤＩＯ　－　ＬＯＦＩ　ＨＩＰＨＯＰ　２４／７　平和",
       "videoId": "fxn8p26WTR4",
       "broadcast": true,
@@ -199,15 +208,6 @@
         "ambient",
         "jazz",
         "chill out"
-      ]
-    },
-    {
-      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
-      "videoId": "TWv3DfoiigM",
-      "broadcast": false,
-      "genres": [
-        "soundtrack",
-        "videogames"
       ]
     },
     {
