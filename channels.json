@@ -254,6 +254,57 @@
         "anime",
         "nightcore"
       ]
+    },
+    {
+      "title": "24/7 lofi hip hop radio - beats to chill/study/relax",
+      "videoId": "XDA7WSMyiro",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "jazz",
+        "chill out",
+        "relax"
+      ]
+    },
+    {
+      "title": "24/7 lofi hip hop radio ♫ only lofi ♫ beats to study/relax/sleep 🎧",
+      "videoId": "hPO1V2L4urY",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "relax",
+        "ambient"
+      ]
+    },
+    {
+      "title": "24/7 Chill & Lofi Radio 💕",
+      "videoId": "8YGgqi3BE6o",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "chill out",
+        "ambient"
+      ]
+    },
+    {
+      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
+      "videoId": "wde4D2uZjGI",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "hip hop",
+        "lofi"
+      ]
+    },
+    {
+      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
+      "videoId": "djJAk1pswcY",
+      "broadcast": true,
+      "genres": [
+        "hip hop",
+        "jazz",
+        "lofi"
+      ]
     }
   ]
 }
