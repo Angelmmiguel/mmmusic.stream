@@ -43,6 +43,14 @@ export class Index extends React.Component {
 
     // Store as a property. It won't change
     this.genres = genres;
+
+    // Play a video? (only on browser)
+    if (typeof Window !== 'undefined') {
+      const vID = (new URL(document.location)).searchParams.get('v');
+      if (vID && vID !== '' && this.props.channels.filter((v) => v.videoId === vID).length > 0) {
+        this.props.dispatch(updateChannel(vID));
+      }
+    }
   }
 
   componentDidMount() {
@@ -130,7 +138,7 @@ export class Index extends React.Component {
   }
 
   stopPlaying() {
-    this.props.dispatch(stopPlay(channel));
+    this.props.dispatch(stopPlay());
   }
 
   onChangeVolume(volume) {
