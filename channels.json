@@ -97,16 +97,6 @@
       ]
     },
     {
-      "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
-      "videoId": "2L9vFNMvIBE",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop",
-        "chill out"
-      ]
-    },
-    {
       "title": "College Music · 24/7 Live Radio",
       "videoId": "gmv54pfxk0Q",
       "broadcast": true,
@@ -114,6 +104,16 @@
         "lofi",
         "chill out",
         "relax"
+      ]
+    },
+    {
+      "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
+      "videoId": "2L9vFNMvIBE",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "chill out"
       ]
     },
     {
@@ -201,21 +201,21 @@
       ]
     },
     {
-      "title": "Relaxing The Legend of Zelda Music",
-      "videoId": "FemdTEIDvRM",
-      "broadcast": false,
-      "genres": [
-        "videogames",
-        "chill out"
-      ]
-    },
-    {
       "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
       "videoId": "TWv3DfoiigM",
       "broadcast": false,
       "genres": [
         "soundtrack",
         "videogames"
+      ]
+    },
+    {
+      "title": "Relaxing The Legend of Zelda Music",
+      "videoId": "FemdTEIDvRM",
+      "broadcast": false,
+      "genres": [
+        "videogames",
+        "chill out"
       ]
     },
     {
@@ -276,6 +276,16 @@
       ]
     },
     {
+      "title": "24/7 lofi hip hop radio ♫ only lofi ♫ beats to study/relax/sleep 🎧",
+      "videoId": "hPO1V2L4urY",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "relax",
+        "ambient"
+      ]
+    },
+    {
       "title": "24/7 lofi hip hop radio - beats to chill/study/relax",
       "videoId": "XDA7WSMyiro",
       "broadcast": true,
@@ -284,16 +294,6 @@
         "jazz",
         "chill out",
         "relax"
-      ]
-    },
-    {
-      "title": "24/7 lofi hip hop radio ♫ only lofi ♫ beats to study/relax/sleep 🎧",
-      "videoId": "hPO1V2L4urY",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "relax",
-        "ambient"
       ]
     },
     {
