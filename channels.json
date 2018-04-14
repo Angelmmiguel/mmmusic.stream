@@ -20,15 +20,6 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio",
       "videoId": "6rReMbO42uE",
       "broadcast": true,
@@ -37,6 +28,15 @@
         "chill out",
         "hip hop",
         "jazz"
+      ]
+    },
+    {
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
