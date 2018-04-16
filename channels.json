@@ -79,15 +79,6 @@
       ]
     },
     {
-      "title": "Nightcore Radio 「24/7」Ultimate Nightcore Music",
-      "videoId": "DzNPBqcJGk4",
-      "broadcast": true,
-      "genres": [
-        "nightcore",
-        "electro"
-      ]
-    },
-    {
       "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
       "videoId": "ueupsBPNkSc",
       "broadcast": true,
@@ -127,6 +118,15 @@
       ]
     },
     {
+      "title": "Electro Swing Collection",
+      "videoId": "C6-TWRn0k4I",
+      "broadcast": false,
+      "genres": [
+        "electro",
+        "dubstep"
+      ]
+    },
+    {
       "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
       "videoId": "kq7cQNO0gYc",
       "broadcast": false,
@@ -134,15 +134,6 @@
         "lofi",
         "anime",
         "chill out"
-      ]
-    },
-    {
-      "title": "Electro Swing Collection",
-      "videoId": "C6-TWRn0k4I",
-      "broadcast": false,
-      "genres": [
-        "electro",
-        "dubstep"
       ]
     },
     {
@@ -164,16 +155,6 @@
       ]
     },
     {
-      "title": "sweet dreams | sleep radio",
-      "videoId": "K6IXPdMAVfM",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out",
-        "relax"
-      ]
-    },
-    {
       "title": "Relaxing Animal Crossing Music Compilation",
       "videoId": "5Y85otqcPak",
       "broadcast": false,
@@ -181,6 +162,16 @@
         "ambient",
         "relax",
         "videogames"
+      ]
+    },
+    {
+      "title": "sweet dreams | sleep radio",
+      "videoId": "K6IXPdMAVfM",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out",
+        "relax"
       ]
     },
     {
@@ -228,15 +219,6 @@
         "ambient",
         "jazz",
         "chill out"
-      ]
-    },
-    {
-      "title": "👑 ~ 24/7 The Ultimate Nightcore Radio | Top Quality Music ~ 👑",
-      "videoId": "v9gqQ1Ua-dM",
-      "broadcast": true,
-      "genres": [
-        "anime",
-        "nightcore"
       ]
     },
     {
@@ -294,6 +276,15 @@
         "jazz",
         "chill out",
         "relax"
+      ]
+    },
+    {
+      "title": "👑 ~ 24/7 The Ultimate Nightcore Radio | Top Quality Music ~ 👑",
+      "videoId": "v9gqQ1Ua-dM",
+      "broadcast": true,
+      "genres": [
+        "anime",
+        "nightcore"
       ]
     },
     {
