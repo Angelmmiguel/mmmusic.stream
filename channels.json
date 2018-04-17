@@ -1,6 +1,15 @@
 {
   "channels": [
     {
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
+      ]
+    },
+    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -8,15 +17,6 @@
         "jazz",
         "chill out",
         "ambient"
-      ]
-    },
-    {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
       ]
     },
     {
@@ -183,21 +183,21 @@
       ]
     },
     {
-      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
-      "videoId": "RBM8Dp0Zhog",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop"
-      ]
-    },
-    {
       "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
       "videoId": "TWv3DfoiigM",
       "broadcast": false,
       "genres": [
         "soundtrack",
         "videogames"
+      ]
+    },
+    {
+      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
+      "videoId": "RBM8Dp0Zhog",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop"
       ]
     },
     {
