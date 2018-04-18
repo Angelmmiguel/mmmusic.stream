@@ -20,17 +20,6 @@
       ]
     },
     {
-      "title": "24/7 lofi hip hop radio",
-      "videoId": "6rReMbO42uE",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "chill out",
-        "hip hop",
-        "jazz"
-      ]
-    },
-    {
       "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
       "videoId": "GVC5adzPpiE",
       "broadcast": true,
@@ -40,13 +29,14 @@
       ]
     },
     {
-      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
-      "videoId": "wde4D2uZjGI",
+      "title": "24/7 lofi hip hop radio",
+      "videoId": "6rReMbO42uE",
       "broadcast": true,
       "genres": [
-        "ambient",
+        "lofi",
+        "chill out",
         "hip hop",
-        "lofi"
+        "jazz"
       ]
     },
     {
@@ -60,13 +50,13 @@
       ]
     },
     {
-      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
-      "videoId": "2atQnvunGCo",
+      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
+      "videoId": "wde4D2uZjGI",
       "broadcast": true,
       "genres": [
-        "lofi",
+        "ambient",
         "hip hop",
-        "electro"
+        "lofi"
       ]
     },
     {
@@ -76,6 +66,16 @@
       "genres": [
         "nightcore",
         "anime"
+      ]
+    },
+    {
+      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
+      "videoId": "2atQnvunGCo",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "electro"
       ]
     },
     {
@@ -127,6 +127,15 @@
       ]
     },
     {
+      "title": "Relaxing Kingdom Hearts Music",
+      "videoId": "CSQbUbQ2w-E",
+      "broadcast": false,
+      "genres": [
+        "ambient",
+        "videogames"
+      ]
+    },
+    {
       "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
       "videoId": "kq7cQNO0gYc",
       "broadcast": false,
@@ -134,15 +143,6 @@
         "lofi",
         "anime",
         "chill out"
-      ]
-    },
-    {
-      "title": "Relaxing Kingdom Hearts Music",
-      "videoId": "CSQbUbQ2w-E",
-      "broadcast": false,
-      "genres": [
-        "ambient",
-        "videogames"
       ]
     },
     {
@@ -172,14 +172,6 @@
         "ambient",
         "chill out",
         "relax"
-      ]
-    },
-    {
-      "title": "24/7 Rap Music",
-      "videoId": "X25xNUYDBu8",
-      "broadcast": true,
-      "genres": [
-        "hip hop"
       ]
     },
     {
@@ -240,24 +232,6 @@
       ]
     },
     {
-      "title": "✔ Nightcore Radio || Ruby's Radio 【24/7】 (hopefully) ♡",
-      "videoId": "tG_mV7S0-x0",
-      "broadcast": true,
-      "genres": [
-        "nightcore",
-        "anime"
-      ]
-    },
-    {
-      "title": "⭐ Nightcore Radio 『24/7』 | Best Nightcore Hits Of 2017 & 2018 ⭐",
-      "videoId": "VMdhBQWsC94",
-      "broadcast": true,
-      "genres": [
-        "anime",
-        "nightcore"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio ♫ only lofi ♫ beats to study/relax/sleep 🎧",
       "videoId": "hPO1V2L4urY",
       "broadcast": true,
@@ -276,15 +250,6 @@
         "jazz",
         "chill out",
         "relax"
-      ]
-    },
-    {
-      "title": "👑 ~ 24/7 The Ultimate Nightcore Radio | Top Quality Music ~ 👑",
-      "videoId": "v9gqQ1Ua-dM",
-      "broadcast": true,
-      "genres": [
-        "anime",
-        "nightcore"
       ]
     },
     {
