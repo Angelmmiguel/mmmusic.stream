@@ -40,16 +40,6 @@
       ]
     },
     {
-      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
-      "videoId": "djJAk1pswcY",
-      "broadcast": true,
-      "genres": [
-        "hip hop",
-        "jazz",
-        "lofi"
-      ]
-    },
-    {
       "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
       "videoId": "wde4D2uZjGI",
       "broadcast": true,
@@ -60,12 +50,13 @@
       ]
     },
     {
-      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
-      "videoId": "OP9CEMY5gkI",
+      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
+      "videoId": "djJAk1pswcY",
       "broadcast": true,
       "genres": [
-        "nightcore",
-        "anime"
+        "hip hop",
+        "jazz",
+        "lofi"
       ]
     },
     {
@@ -79,13 +70,12 @@
       ]
     },
     {
-      "title": "College Music · 24/7 Live Radio",
-      "videoId": "gmv54pfxk0Q",
+      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
+      "videoId": "OP9CEMY5gkI",
       "broadcast": true,
       "genres": [
-        "lofi",
-        "chill out",
-        "relax"
+        "nightcore",
+        "anime"
       ]
     },
     {
@@ -95,6 +85,16 @@
       "genres": [
         "electro",
         "dubstep"
+      ]
+    },
+    {
+      "title": "College Music · 24/7 Live Radio",
+      "videoId": "gmv54pfxk0Q",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "chill out",
+        "relax"
       ]
     },
     {
@@ -165,6 +165,15 @@
       ]
     },
     {
+      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
+      "videoId": "TWv3DfoiigM",
+      "broadcast": false,
+      "genres": [
+        "soundtrack",
+        "videogames"
+      ]
+    },
+    {
       "title": "sweet dreams | sleep radio",
       "videoId": "K6IXPdMAVfM",
       "broadcast": true,
@@ -172,15 +181,6 @@
         "ambient",
         "chill out",
         "relax"
-      ]
-    },
-    {
-      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
-      "videoId": "TWv3DfoiigM",
-      "broadcast": false,
-      "genres": [
-        "soundtrack",
-        "videogames"
       ]
     },
     {
