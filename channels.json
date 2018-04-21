@@ -1,6 +1,16 @@
 {
   "channels": [
     {
+      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
+      "videoId": "2ccaHpy5Ewo",
+      "broadcast": true,
+      "genres": [
+        "jazz",
+        "chill out",
+        "ambient"
+      ]
+    },
+    {
       "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
       "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
@@ -10,13 +20,12 @@
       ]
     },
     {
-      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
-      "videoId": "2ccaHpy5Ewo",
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
       "broadcast": true,
       "genres": [
-        "jazz",
-        "chill out",
-        "ambient"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -31,12 +40,13 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
+      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
+      "videoId": "djJAk1pswcY",
       "broadcast": true,
       "genres": [
-        "electro",
-        "dubstep"
+        "hip hop",
+        "jazz",
+        "lofi"
       ]
     },
     {
@@ -46,16 +56,6 @@
       "genres": [
         "ambient",
         "hip hop",
-        "lofi"
-      ]
-    },
-    {
-      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
-      "videoId": "djJAk1pswcY",
-      "broadcast": true,
-      "genres": [
-        "hip hop",
-        "jazz",
         "lofi"
       ]
     },
@@ -242,6 +242,16 @@
       ]
     },
     {
+      "title": "24/7 Chill & Lofi Radio 💕",
+      "videoId": "8YGgqi3BE6o",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "chill out",
+        "ambient"
+      ]
+    },
+    {
       "title": "24/7 lofi hip hop radio - beats to chill/study/relax",
       "videoId": "XDA7WSMyiro",
       "broadcast": true,
@@ -250,16 +260,6 @@
         "jazz",
         "chill out",
         "relax"
-      ]
-    },
-    {
-      "title": "24/7 Chill & Lofi Radio 💕",
-      "videoId": "8YGgqi3BE6o",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "chill out",
-        "ambient"
       ]
     }
   ]
