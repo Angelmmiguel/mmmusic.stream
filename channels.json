@@ -1,16 +1,6 @@
 {
   "channels": [
     {
-      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
-      "videoId": "2ccaHpy5Ewo",
-      "broadcast": true,
-      "genres": [
-        "jazz",
-        "chill out",
-        "ambient"
-      ]
-    },
-    {
       "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
       "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
@@ -20,12 +10,13 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
+      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
+      "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
       "genres": [
-        "electro",
-        "dubstep"
+        "jazz",
+        "chill out",
+        "ambient"
       ]
     },
     {
@@ -40,13 +31,12 @@
       ]
     },
     {
-      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
-      "videoId": "djJAk1pswcY",
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
       "broadcast": true,
       "genres": [
-        "hip hop",
-        "jazz",
-        "lofi"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -60,13 +50,13 @@
       ]
     },
     {
-      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
-      "videoId": "2atQnvunGCo",
+      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
+      "videoId": "djJAk1pswcY",
       "broadcast": true,
       "genres": [
-        "lofi",
         "hip hop",
-        "electro"
+        "jazz",
+        "lofi"
       ]
     },
     {
@@ -76,6 +66,16 @@
       "genres": [
         "nightcore",
         "anime"
+      ]
+    },
+    {
+      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
+      "videoId": "2atQnvunGCo",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "electro"
       ]
     },
     {
@@ -98,16 +98,6 @@
       ]
     },
     {
-      "title": "Good Vibes Radio · 24/7",
-      "videoId": "__GmhW9nEtY",
-      "broadcast": true,
-      "genres": [
-        "dubstep",
-        "chill out",
-        "electro"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
       "videoId": "2L9vFNMvIBE",
       "broadcast": true,
@@ -115,6 +105,16 @@
         "lofi",
         "hip hop",
         "chill out"
+      ]
+    },
+    {
+      "title": "Good Vibes Radio · 24/7",
+      "videoId": "__GmhW9nEtY",
+      "broadcast": true,
+      "genres": [
+        "dubstep",
+        "chill out",
+        "electro"
       ]
     },
     {
@@ -145,16 +145,6 @@
       ]
     },
     {
-      "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
-      "videoId": "kq7cQNO0gYc",
-      "broadcast": false,
-      "genres": [
-        "lofi",
-        "anime",
-        "chill out"
-      ]
-    },
-    {
       "title": "Relaxing Animal Crossing Music Compilation",
       "videoId": "5Y85otqcPak",
       "broadcast": false,
@@ -162,6 +152,16 @@
         "ambient",
         "relax",
         "videogames"
+      ]
+    },
+    {
+      "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
+      "videoId": "kq7cQNO0gYc",
+      "broadcast": false,
+      "genres": [
+        "lofi",
+        "anime",
+        "chill out"
       ]
     },
     {
