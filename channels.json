@@ -79,15 +79,6 @@
       ]
     },
     {
-      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
-      "videoId": "ueupsBPNkSc",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "College Music · 24/7 Live Radio",
       "videoId": "gmv54pfxk0Q",
       "broadcast": true,
@@ -98,13 +89,12 @@
       ]
     },
     {
-      "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
-      "videoId": "2L9vFNMvIBE",
+      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
+      "videoId": "ueupsBPNkSc",
       "broadcast": true,
       "genres": [
-        "lofi",
-        "hip hop",
-        "chill out"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -115,6 +105,16 @@
         "dubstep",
         "chill out",
         "electro"
+      ]
+    },
+    {
+      "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
+      "videoId": "2L9vFNMvIBE",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "chill out"
       ]
     },
     {
