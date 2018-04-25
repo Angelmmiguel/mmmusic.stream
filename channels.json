@@ -20,15 +20,6 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio",
       "videoId": "6rReMbO42uE",
       "broadcast": true,
@@ -40,13 +31,12 @@
       ]
     },
     {
-      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
-      "videoId": "wde4D2uZjGI",
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
       "broadcast": true,
       "genres": [
-        "ambient",
-        "hip hop",
-        "lofi"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -60,12 +50,13 @@
       ]
     },
     {
-      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
-      "videoId": "OP9CEMY5gkI",
+      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
+      "videoId": "wde4D2uZjGI",
       "broadcast": true,
       "genres": [
-        "nightcore",
-        "anime"
+        "ambient",
+        "hip hop",
+        "lofi"
       ]
     },
     {
@@ -76,6 +67,15 @@
         "lofi",
         "hip hop",
         "electro"
+      ]
+    },
+    {
+      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
+      "videoId": "OP9CEMY5gkI",
+      "broadcast": true,
+      "genres": [
+        "nightcore",
+        "anime"
       ]
     },
     {
@@ -252,6 +252,14 @@
       ]
     },
     {
+      "title": "🔴 DOOM Metal Music 24/7 Radio Live Stream by SOLITUDE PRODUCTIONS (death doom, funeral doom, sludge)",
+      "videoId": "dGfdGZ8cH-o",
+      "broadcast": true,
+      "genres": [
+        "metal"
+      ]
+    },
+    {
       "title": "24/7 lofi hip hop radio - beats to chill/study/relax",
       "videoId": "XDA7WSMyiro",
       "broadcast": true,
@@ -260,14 +268,6 @@
         "jazz",
         "chill out",
         "relax"
-      ]
-    },
-    {
-      "title": "🔴 DOOM Metal Music 24/7 Radio Live Stream by SOLITUDE PRODUCTIONS (death doom, funeral doom, sludge)",
-      "videoId": "dGfdGZ8cH-o",
-      "broadcast": true,
-      "genres": [
-        "metal"
       ]
     },
     {
@@ -285,15 +285,6 @@
       "broadcast": true,
       "genres": [
         "nightcore",
-        "metal",
-        "rock"
-      ]
-    },
-    {
-      "title": "LIVE STREAM Death  Metal COMPILATION",
-      "videoId": "xauAAT5npmQ",
-      "broadcast": true,
-      "genres": [
         "metal",
         "rock"
       ]
