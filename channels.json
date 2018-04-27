@@ -1,16 +1,6 @@
 {
   "channels": [
     {
-      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
-      "videoId": "2ccaHpy5Ewo",
-      "broadcast": true,
-      "genres": [
-        "jazz",
-        "chill out",
-        "ambient"
-      ]
-    },
-    {
       "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
       "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
@@ -20,12 +10,13 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
+      "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
+      "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
       "genres": [
-        "electro",
-        "dubstep"
+        "jazz",
+        "chill out",
+        "ambient"
       ]
     },
     {
@@ -46,6 +37,15 @@
         "lofi",
         "hip hop",
         "electro"
+      ]
+    },
+    {
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -108,21 +108,21 @@
       ]
     },
     {
-      "title": "Electro Swing Collection",
-      "videoId": "C6-TWRn0k4I",
-      "broadcast": false,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "Relaxing Kingdom Hearts Music",
       "videoId": "CSQbUbQ2w-E",
       "broadcast": false,
       "genres": [
         "ambient",
         "videogames"
+      ]
+    },
+    {
+      "title": "Electro Swing Collection",
+      "videoId": "C6-TWRn0k4I",
+      "broadcast": false,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -261,21 +261,21 @@
       ]
     },
     {
-      "title": "🔴 POST-METAL / POST-ROCK / SLUDGE METAL Music 24/7 Radio Live Stream Broadcast by SLOW BURN RECORDS",
-      "videoId": "eR_GBvDnkhQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "rock"
-      ]
-    },
-    {
       "title": "🔴 Rock Radio Live 24/7",
       "videoId": "a-SX7V7WuAM",
       "broadcast": true,
       "genres": [
         "nightcore",
         "metal",
+        "rock"
+      ]
+    },
+    {
+      "title": "🔴 POST-METAL / POST-ROCK / SLUDGE METAL Music 24/7 Radio Live Stream Broadcast by SLOW BURN RECORDS",
+      "videoId": "eR_GBvDnkhQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
         "rock"
       ]
     }
