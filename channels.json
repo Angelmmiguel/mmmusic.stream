@@ -20,16 +20,6 @@
       ]
     },
     {
-      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
-      "videoId": "djJAk1pswcY",
-      "broadcast": true,
-      "genres": [
-        "hip hop",
-        "jazz",
-        "lofi"
-      ]
-    },
-    {
       "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
       "videoId": "2atQnvunGCo",
       "broadcast": true,
@@ -40,12 +30,13 @@
       ]
     },
     {
-      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
-      "videoId": "GVC5adzPpiE",
+      "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
+      "videoId": "djJAk1pswcY",
       "broadcast": true,
       "genres": [
-        "electro",
-        "dubstep"
+        "hip hop",
+        "jazz",
+        "lofi"
       ]
     },
     {
@@ -55,6 +46,15 @@
       "genres": [
         "nightcore",
         "anime"
+      ]
+    },
+    {
+      "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
+      "videoId": "GVC5adzPpiE",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -174,21 +174,21 @@
       ]
     },
     {
-      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
-      "videoId": "RBM8Dp0Zhog",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop"
-      ]
-    },
-    {
       "title": "Relaxing The Legend of Zelda Music",
       "videoId": "FemdTEIDvRM",
       "broadcast": false,
       "genres": [
         "videogames",
         "chill out"
+      ]
+    },
+    {
+      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
+      "videoId": "RBM8Dp0Zhog",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop"
       ]
     },
     {
@@ -242,6 +242,14 @@
       ]
     },
     {
+      "title": "🔴 DOOM Metal Music 24/7 Radio Live Stream by SOLITUDE PRODUCTIONS (death doom, funeral doom, sludge)",
+      "videoId": "dGfdGZ8cH-o",
+      "broadcast": true,
+      "genres": [
+        "metal"
+      ]
+    },
+    {
       "title": "24/7 lofi hip hop radio - beats to chill/study/relax",
       "videoId": "XDA7WSMyiro",
       "broadcast": true,
@@ -250,14 +258,6 @@
         "jazz",
         "chill out",
         "relax"
-      ]
-    },
-    {
-      "title": "🔴 DOOM Metal Music 24/7 Radio Live Stream by SOLITUDE PRODUCTIONS (death doom, funeral doom, sludge)",
-      "videoId": "dGfdGZ8cH-o",
-      "broadcast": true,
-      "genres": [
-        "metal"
       ]
     },
     {
