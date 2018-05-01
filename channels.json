@@ -1,15 +1,6 @@
 {
   "channels": [
     {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
-      ]
-    },
-    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -20,13 +11,12 @@
       ]
     },
     {
-      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
-      "videoId": "Yj2oGRkFLo0",
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
       "genres": [
         "ambient",
-        "hip hop",
-        "lofi"
+        "chill out"
       ]
     },
     {
@@ -46,6 +36,16 @@
       "genres": [
         "hip hop",
         "jazz",
+        "lofi"
+      ]
+    },
+    {
+      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
+      "videoId": "Yj2oGRkFLo0",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "hip hop",
         "lofi"
       ]
     },
@@ -118,21 +118,21 @@
       ]
     },
     {
-      "title": "Relaxing Kingdom Hearts Music",
-      "videoId": "CSQbUbQ2w-E",
-      "broadcast": false,
-      "genres": [
-        "ambient",
-        "videogames"
-      ]
-    },
-    {
       "title": "Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]",
       "videoId": "8iU8LPEa4o0",
       "broadcast": false,
       "genres": [
         "lofi",
         "hip hop"
+      ]
+    },
+    {
+      "title": "Relaxing Kingdom Hearts Music",
+      "videoId": "CSQbUbQ2w-E",
+      "broadcast": false,
+      "genres": [
+        "ambient",
+        "videogames"
       ]
     },
     {
@@ -250,16 +250,6 @@
       ]
     },
     {
-      "title": "24/7 Chill & Lofi Radio 💕",
-      "videoId": "8YGgqi3BE6o",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "chill out",
-        "ambient"
-      ]
-    },
-    {
       "title": "🔴 Rock Radio Live 24/7",
       "videoId": "a-SX7V7WuAM",
       "broadcast": true,
@@ -267,6 +257,16 @@
         "nightcore",
         "metal",
         "rock"
+      ]
+    },
+    {
+      "title": "24/7 Chill & Lofi Radio 💕",
+      "videoId": "8YGgqi3BE6o",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "chill out",
+        "ambient"
       ]
     },
     {
