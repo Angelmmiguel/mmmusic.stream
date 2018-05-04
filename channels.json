@@ -20,16 +20,6 @@
       ]
     },
     {
-      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
-      "videoId": "2atQnvunGCo",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop",
-        "electro"
-      ]
-    },
-    {
       "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
       "videoId": "djJAk1pswcY",
       "broadcast": true,
@@ -40,13 +30,13 @@
       ]
     },
     {
-      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
-      "videoId": "Yj2oGRkFLo0",
+      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
+      "videoId": "2atQnvunGCo",
       "broadcast": true,
       "genres": [
-        "ambient",
+        "lofi",
         "hip hop",
-        "lofi"
+        "electro"
       ]
     },
     {
@@ -56,6 +46,16 @@
       "genres": [
         "nightcore",
         "anime"
+      ]
+    },
+    {
+      "title": "Aviencloud Radio – 24/7 Live Stream | Indigo Soul, Chill, LoFi-Rap, Future Bass, Unique Vibes •",
+      "videoId": "Yj2oGRkFLo0",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "hip hop",
+        "lofi"
       ]
     },
     {
@@ -99,15 +99,6 @@
       ]
     },
     {
-      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
-      "videoId": "ueupsBPNkSc",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
       "videoId": "2L9vFNMvIBE",
       "broadcast": true,
@@ -115,6 +106,15 @@
         "lofi",
         "hip hop",
         "chill out"
+      ]
+    },
+    {
+      "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
+      "videoId": "ueupsBPNkSc",
+      "broadcast": true,
+      "genres": [
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -276,15 +276,6 @@
       "genres": [
         "ambient",
         "rock"
-      ]
-    },
-    {
-      "title": "♫ THE 80'S GUY RADIO SYNTHWAVE, NEW RETRO WAVE, DREAMWAVE, OUTRUN, DARKSYNTH ♫",
-      "videoId": "I8DmBFb2MX0",
-      "broadcast": true,
-      "genres": [
-        "electro",
-        "videogames"
       ]
     }
   ]
