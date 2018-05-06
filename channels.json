@@ -1,6 +1,15 @@
 {
   "channels": [
     {
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
+      "broadcast": true,
+      "genres": [
+        "ambient",
+        "chill out"
+      ]
+    },
+    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -8,15 +17,6 @@
         "jazz",
         "chill out",
         "ambient"
-      ]
-    },
-    {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
       ]
     },
     {
@@ -89,16 +89,6 @@
       ]
     },
     {
-      "title": "Good Vibes Radio · 24/7",
-      "videoId": "__GmhW9nEtY",
-      "broadcast": true,
-      "genres": [
-        "dubstep",
-        "chill out",
-        "electro"
-      ]
-    },
-    {
       "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
       "videoId": "2L9vFNMvIBE",
       "broadcast": true,
@@ -106,6 +96,16 @@
         "lofi",
         "hip hop",
         "chill out"
+      ]
+    },
+    {
+      "title": "Good Vibes Radio · 24/7",
+      "videoId": "__GmhW9nEtY",
+      "broadcast": true,
+      "genres": [
+        "dubstep",
+        "chill out",
+        "electro"
       ]
     },
     {
@@ -247,16 +247,6 @@
       "broadcast": true,
       "genres": [
         "metal"
-      ]
-    },
-    {
-      "title": "🔴 Rock Radio Live 24/7",
-      "videoId": "a-SX7V7WuAM",
-      "broadcast": true,
-      "genres": [
-        "nightcore",
-        "metal",
-        "rock"
       ]
     },
     {
