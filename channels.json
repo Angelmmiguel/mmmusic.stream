@@ -1,15 +1,6 @@
 {
   "channels": [
     {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
-      ]
-    },
-    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -20,13 +11,12 @@
       ]
     },
     {
-      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
-      "videoId": "2atQnvunGCo",
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
       "genres": [
-        "lofi",
-        "hip hop",
-        "electro"
+        "ambient",
+        "chill out"
       ]
     },
     {
@@ -37,6 +27,16 @@
         "hip hop",
         "jazz",
         "lofi"
+      ]
+    },
+    {
+      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
+      "videoId": "2atQnvunGCo",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "electro"
       ]
     },
     {
@@ -59,17 +59,6 @@
       ]
     },
     {
-      "title": "24/7 lofi hip hop radio",
-      "videoId": "6rReMbO42uE",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "chill out",
-        "hip hop",
-        "jazz"
-      ]
-    },
-    {
       "title": "NCS 24/7 Live Stream 🎵 Gaming Music Radio",
       "videoId": "GVC5adzPpiE",
       "broadcast": true,
@@ -79,13 +68,14 @@
       ]
     },
     {
-      "title": "College Music · 24/7 Live Radio",
-      "videoId": "gmv54pfxk0Q",
+      "title": "24/7 lofi hip hop radio",
+      "videoId": "6rReMbO42uE",
       "broadcast": true,
       "genres": [
         "lofi",
         "chill out",
-        "relax"
+        "hip hop",
+        "jazz"
       ]
     },
     {
@@ -99,13 +89,13 @@
       ]
     },
     {
-      "title": "Good Vibes Radio · 24/7",
-      "videoId": "__GmhW9nEtY",
+      "title": "College Music · 24/7 Live Radio",
+      "videoId": "gmv54pfxk0Q",
       "broadcast": true,
       "genres": [
-        "dubstep",
+        "lofi",
         "chill out",
-        "electro"
+        "relax"
       ]
     },
     {
@@ -115,6 +105,16 @@
       "genres": [
         "electro",
         "dubstep"
+      ]
+    },
+    {
+      "title": "Good Vibes Radio · 24/7",
+      "videoId": "__GmhW9nEtY",
+      "broadcast": true,
+      "genres": [
+        "dubstep",
+        "chill out",
+        "electro"
       ]
     },
     {
