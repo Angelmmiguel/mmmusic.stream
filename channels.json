@@ -79,16 +79,6 @@
       ]
     },
     {
-      "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
-      "videoId": "2L9vFNMvIBE",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop",
-        "chill out"
-      ]
-    },
-    {
       "title": "College Music · 24/7 Live Radio",
       "videoId": "gmv54pfxk0Q",
       "broadcast": true,
@@ -96,6 +86,16 @@
         "lofi",
         "chill out",
         "relax"
+      ]
+    },
+    {
+      "title": "24/7 lofi hip hop radio - smooth beats to study/sleep/relax",
+      "videoId": "2L9vFNMvIBE",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "chill out"
       ]
     },
     {
@@ -118,6 +118,15 @@
       ]
     },
     {
+      "title": "Relaxing Kingdom Hearts Music",
+      "videoId": "CSQbUbQ2w-E",
+      "broadcast": false,
+      "genres": [
+        "ambient",
+        "videogames"
+      ]
+    },
+    {
       "title": "Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]",
       "videoId": "8iU8LPEa4o0",
       "broadcast": false,
@@ -127,12 +136,12 @@
       ]
     },
     {
-      "title": "Relaxing Kingdom Hearts Music",
-      "videoId": "CSQbUbQ2w-E",
+      "title": "Electro Swing Collection",
+      "videoId": "C6-TWRn0k4I",
       "broadcast": false,
       "genres": [
-        "ambient",
-        "videogames"
+        "electro",
+        "dubstep"
       ]
     },
     {
@@ -143,15 +152,6 @@
         "lofi",
         "anime",
         "chill out"
-      ]
-    },
-    {
-      "title": "Electro Swing Collection",
-      "videoId": "C6-TWRn0k4I",
-      "broadcast": false,
-      "genres": [
-        "electro",
-        "dubstep"
       ]
     },
     {
@@ -242,14 +242,6 @@
       ]
     },
     {
-      "title": "🔴 DOOM Metal Music 24/7 Radio Live Stream by SOLITUDE PRODUCTIONS (death doom, funeral doom, sludge)",
-      "videoId": "dGfdGZ8cH-o",
-      "broadcast": true,
-      "genres": [
-        "metal"
-      ]
-    },
-    {
       "title": "24/7 Chill & Lofi Radio 💕",
       "videoId": "8YGgqi3BE6o",
       "broadcast": true,
@@ -257,6 +249,14 @@
         "lofi",
         "chill out",
         "ambient"
+      ]
+    },
+    {
+      "title": "🔴 DOOM Metal Music 24/7 Radio Live Stream by SOLITUDE PRODUCTIONS (death doom, funeral doom, sludge)",
+      "videoId": "dGfdGZ8cH-o",
+      "broadcast": true,
+      "genres": [
+        "metal"
       ]
     },
     {
