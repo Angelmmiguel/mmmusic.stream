@@ -1,15 +1,6 @@
 {
   "channels": [
     {
-      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
-      "videoId": "XgRjcfKLRdQ",
-      "broadcast": true,
-      "genres": [
-        "ambient",
-        "chill out"
-      ]
-    },
-    {
       "title": "Relaxing Jazz & Bossa Nova Music Radio - 24/7 Chill Out Piano & Guitar Music Live Stream",
       "videoId": "2ccaHpy5Ewo",
       "broadcast": true,
@@ -20,13 +11,12 @@
       ]
     },
     {
-      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
-      "videoId": "2atQnvunGCo",
+      "title": "STUDIO GHIBLI MUSIC LIVE RADIO 「24 / 7」 🔴 スタジオジブリ音楽",
+      "videoId": "XgRjcfKLRdQ",
       "broadcast": true,
       "genres": [
-        "lofi",
-        "hip hop",
-        "electro"
+        "ambient",
+        "chill out"
       ]
     },
     {
@@ -37,6 +27,16 @@
         "hip hop",
         "jazz",
         "lofi"
+      ]
+    },
+    {
+      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
+      "videoId": "2atQnvunGCo",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop",
+        "electro"
       ]
     },
     {
@@ -127,6 +127,15 @@
       ]
     },
     {
+      "title": "Electro Swing Collection",
+      "videoId": "C6-TWRn0k4I",
+      "broadcast": false,
+      "genres": [
+        "electro",
+        "dubstep"
+      ]
+    },
+    {
       "title": "Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]",
       "videoId": "8iU8LPEa4o0",
       "broadcast": false,
@@ -136,12 +145,12 @@
       ]
     },
     {
-      "title": "Electro Swing Collection",
-      "videoId": "C6-TWRn0k4I",
+      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
+      "videoId": "TWv3DfoiigM",
       "broadcast": false,
       "genres": [
-        "electro",
-        "dubstep"
+        "soundtrack",
+        "videogames"
       ]
     },
     {
@@ -152,15 +161,6 @@
         "lofi",
         "anime",
         "chill out"
-      ]
-    },
-    {
-      "title": "Skyrim Complete Soundtrack (HQ AUDIO)",
-      "videoId": "TWv3DfoiigM",
-      "broadcast": false,
-      "genres": [
-        "soundtrack",
-        "videogames"
       ]
     },
     {
@@ -232,6 +232,14 @@
       ]
     },
     {
+      "title": "🔴 DOOM Metal Music 24/7 Radio Live Stream by SOLITUDE PRODUCTIONS (death doom, funeral doom, sludge)",
+      "videoId": "dGfdGZ8cH-o",
+      "broadcast": true,
+      "genres": [
+        "metal"
+      ]
+    },
+    {
       "title": "24/7 Chill & Lofi Radio 💕",
       "videoId": "8YGgqi3BE6o",
       "broadcast": true,
@@ -239,14 +247,6 @@
         "lofi",
         "chill out",
         "ambient"
-      ]
-    },
-    {
-      "title": "🔴 DOOM Metal Music 24/7 Radio Live Stream by SOLITUDE PRODUCTIONS (death doom, funeral doom, sludge)",
-      "videoId": "dGfdGZ8cH-o",
-      "broadcast": true,
-      "genres": [
-        "metal"
       ]
     },
     {
