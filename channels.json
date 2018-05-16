@@ -20,16 +20,6 @@
       ]
     },
     {
-      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
-      "videoId": "2atQnvunGCo",
-      "broadcast": true,
-      "genres": [
-        "lofi",
-        "hip hop",
-        "electro"
-      ]
-    },
-    {
       "title": "Chillhop Cafe 24/7 🎧  jazzhop | chillhop | lofi hip hop for Work & Relaxing",
       "videoId": "djJAk1pswcY",
       "broadcast": true,
@@ -40,12 +30,13 @@
       ]
     },
     {
-      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
-      "videoId": "OP9CEMY5gkI",
+      "title": "shiloh - lofi hip hop mix [LIVE 24/7]",
+      "videoId": "2atQnvunGCo",
       "broadcast": true,
       "genres": [
-        "nightcore",
-        "anime"
+        "lofi",
+        "hip hop",
+        "electro"
       ]
     },
     {
@@ -57,6 +48,15 @@
         "chill out",
         "hip hop",
         "jazz"
+      ]
+    },
+    {
+      "title": "♫ Nightcore Radio Live Stream 24/7 ♫ Gaming Music Live 2017",
+      "videoId": "OP9CEMY5gkI",
+      "broadcast": true,
+      "genres": [
+        "nightcore",
+        "anime"
       ]
     },
     {
@@ -99,6 +99,15 @@
       ]
     },
     {
+      "title": "Electro Swing Collection",
+      "videoId": "C6-TWRn0k4I",
+      "broadcast": false,
+      "genres": [
+        "electro",
+        "dubstep"
+      ]
+    },
+    {
       "title": "Good Vibes Radio · 24/7",
       "videoId": "__GmhW9nEtY",
       "broadcast": true,
@@ -109,30 +118,12 @@
       ]
     },
     {
-      "title": "Electro Swing Collection",
-      "videoId": "C6-TWRn0k4I",
-      "broadcast": false,
-      "genres": [
-        "electro",
-        "dubstep"
-      ]
-    },
-    {
       "title": "24/7 Monstercat Radio - Electronic Dance Live Stream",
       "videoId": "ueupsBPNkSc",
       "broadcast": true,
       "genres": [
         "electro",
         "dubstep"
-      ]
-    },
-    {
-      "title": "Relaxing Kingdom Hearts Music",
-      "videoId": "CSQbUbQ2w-E",
-      "broadcast": false,
-      "genres": [
-        "ambient",
-        "videogames"
       ]
     },
     {
@@ -154,21 +145,21 @@
       ]
     },
     {
+      "title": "Relaxing Kingdom Hearts Music",
+      "videoId": "CSQbUbQ2w-E",
+      "broadcast": false,
+      "genres": [
+        "ambient",
+        "videogames"
+      ]
+    },
+    {
       "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
       "videoId": "kq7cQNO0gYc",
       "broadcast": false,
       "genres": [
         "lofi",
         "anime",
-        "chill out"
-      ]
-    },
-    {
-      "title": "Relaxing The Legend of Zelda Music",
-      "videoId": "FemdTEIDvRM",
-      "broadcast": false,
-      "genres": [
-        "videogames",
         "chill out"
       ]
     },
@@ -183,12 +174,12 @@
       ]
     },
     {
-      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
-      "videoId": "RBM8Dp0Zhog",
-      "broadcast": true,
+      "title": "Relaxing The Legend of Zelda Music",
+      "videoId": "FemdTEIDvRM",
+      "broadcast": false,
       "genres": [
-        "lofi",
-        "hip hop"
+        "videogames",
+        "chill out"
       ]
     },
     {
@@ -201,6 +192,15 @@
         "ambient",
         "jazz",
         "chill out"
+      ]
+    },
+    {
+      "title": "lofi hip hop radio - relaxing beats to study/chill/sleep to",
+      "videoId": "RBM8Dp0Zhog",
+      "broadcast": true,
+      "genres": [
+        "lofi",
+        "hip hop"
       ]
     },
     {
