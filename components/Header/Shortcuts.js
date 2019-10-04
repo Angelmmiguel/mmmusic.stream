@@ -7,7 +7,7 @@ import Keyboard from "../../icons/keyboard.svg";
 import Modal from "react-modal";
 
 // Make sure to bind modal to your appElement (http://reactcommunity.org/react-modal/accessibility/)
-Modal.setAppElement("#react-modal");
+if (process.env.NODE_ENV !== 'test') Modal.setAppElement("#react-modal");
 
 const shortcuts = [
   {
