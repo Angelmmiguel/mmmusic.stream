@@ -151,8 +151,6 @@ exports[`Index Basic rendering (snapshot) 1`] = `
                         </span>
                       </span>
                       <div
-                        aria-controls={undefined}
-                        aria-labelledby={undefined}
                         aria-valuemax={100}
                         aria-valuemin={0}
                         aria-valuenow={50}
@@ -232,6 +230,7 @@ exports[`Index Basic rendering (snapshot) 1`] = `
             className="jsx-447035556 active"
             href="/"
             onClick={[Function]}
+            onMouseEnter={[Function]}
           >
             All
           </a>
@@ -239,6 +238,7 @@ exports[`Index Basic rendering (snapshot) 1`] = `
             className="jsx-447035556 "
             href="/genre/ambient"
             onClick={[Function]}
+            onMouseEnter={[Function]}
           >
             ambient
           </a>
@@ -246,6 +246,7 @@ exports[`Index Basic rendering (snapshot) 1`] = `
             className="jsx-447035556 "
             href="/genre/chill-out"
             onClick={[Function]}
+            onMouseEnter={[Function]}
           >
             chill out
           </a>
@@ -253,6 +254,7 @@ exports[`Index Basic rendering (snapshot) 1`] = `
             className="jsx-447035556 "
             href="/genre/jazz"
             onClick={[Function]}
+            onMouseEnter={[Function]}
           >
             jazz
           </a>
@@ -393,7 +395,7 @@ exports[`Index Basic rendering (snapshot) 1`] = `
             className="jsx-1306090244 cell"
           >
             © mmmusic 
-            2018
+            2019
             . An
              
             <a
