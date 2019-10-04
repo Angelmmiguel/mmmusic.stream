@@ -36,12 +36,9 @@
     "cross-env": "^6.0.3",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
-    "husky": "^3.0.8",
     "inquirer": "^7.0.0",
     "jest": "^24.9.0",
     "ora": "^4.0.2",
-    "prettier": "1.18.2",
-    "pretty-quick": "^1.11.1",
     "react-test-renderer": "^16.10.2"
   }
 }
